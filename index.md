@@ -1,7 +1,16 @@
-<link rel = "stylesheet" href = "https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+   integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+   crossorigin=""/>
+   
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
 Test
 HTML
 
-<script src = "https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 
-<div id="my-map" style="width:800px; height:600px;"></div>
+ <div id="map" style="height:200px"></div>
+
+ <script>
+   var map = L.map('map').setView([51.505, -0.09], 13);
+ </script>
