@@ -29,4 +29,7 @@ HTML
     maxZoom: 19,
     attribution: '© OpenStreetMap'
 }).addTo(map);
+
+fetch('./data/arenas.json').then((response) => response.json())
+    .then((json) => console.log(json));
  </script>
