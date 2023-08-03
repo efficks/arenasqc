@@ -23,7 +23,7 @@ HTML
 
 
  <script>
-   var map = L.map('map').setView([51.505, -0.09], 13);
+   var map = L.map('map').setView([53.3443221,-78.9722056], 4);
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
