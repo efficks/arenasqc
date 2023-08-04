@@ -25,7 +25,7 @@
 
 
  <script>
-      var map = L.map('map').setView([53.3443221,-78.9722056], 4);
+      var map = L.map('map').setView([49.396675075193976,-70.40258940157918], 6);
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
