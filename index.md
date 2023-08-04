@@ -33,9 +33,17 @@
 }).addTo(map);
 
 function addArenas(arenas){
+    excludedCity = [
+        "Québec",
+        "Sherbrooke",
+        "Laval"
+    ]
     arenas.forEach(arena => {
-        console.log(arena);
-        if(arena["coordinates"] !== null && (arena["disabled"] === undefined || arena["disabled"] === false))
+        if(
+            arena["coordinates"] !== null &&
+            (arena["disabled"] === undefined || arena["disabled"] === false) &&
+            (excludedCity.indexOf(arena["city"])==-1 || arena["opendata"]===false)
+        )
         {
             let marker = L.marker([arena["coordinates"]["coordinates"][1],arena["coordinates"]["coordinates"][0]]).addTo(map);
             if(arena["type"]==="olympique")
@@ -51,8 +59,27 @@ function addSherbrookeArena(infra){
         if(arena["attributes"]["TYPE"]==="Aréna")
         {
             let coordinates = arena["geometry"]
-            console.log(coordinates);
             L.marker([coordinates["y"], coordinates["x"]]).addTo(map);
+        }
+    })
+}
+
+function addQuebecArena(infra){
+    infra["features"].forEach(arena => {
+        if(arena["properties"]["DESCRIPTION"]==="Arénas")
+        {
+            let coordinates = arena["geometry"]["coordinates"]
+            L.marker([coordinates[1],coordinates[0]]).addTo(map);
+        }
+    })
+}
+
+function addLavalArena(infra){
+    infra.forEach(arena => {
+        if(arena["type-commun"]==="Aréna")
+        {
+            console.log(arena);
+            L.marker([arena["latitude"],arena["longitude"]]).addTo(map);
         }
     })
 }
@@ -62,6 +89,12 @@ fetch('./data/arenas.json').then((response) => response.json())
 
 fetch("https://services3.arcgis.com/qsNXG7LzoUbR4c1C/arcgis/rest/services/InstallationSportLoisir/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json").then((response) => response.json())
     .then((json) => addSherbrookeArena(json));
+
+fetch("https://www.donneesquebec.ca/recherche/dataset/daa10606-5fdd-4c9b-b5ef-235081690b6e/resource/8902c982-bbb6-4e84-814a-550d094c0bae/download/vdq-lieupublic.geojson").then((response) => response.json())
+    .then((json) => addQuebecArena(json));
+
+fetch("https://www.donneesquebec.ca/recherche/dataset/fddf1658-248e-49d6-99ed-4899a737f14a/resource/d870514a-0117-4155-8a88-cb2fbf60a330/download/lieux.json").then((response) => response.json())
+    .then((json) => addLavalArena(json));
  </script>
 
 <h3>Sources</h3>
@@ -69,4 +102,7 @@ fetch("https://services3.arcgis.com/qsNXG7LzoUbR4c1C/arcgis/rest/services/Instal
    <li><a href="https://www.aqairs.ca/bibliotheque?doc=1">Arénas du Québec | AQAIRS, 2019</a></li>
    <li><a href="https://donneesouvertes-sherbrooke.opendata.arcgis.com/datasets/b6498f3436974ecbb8fa636a7d9c0b2f_0/about">
 Données ouvertes de la Ville de Sherbrooke, Installations sportives et récréatives</a></li>
+<li><a href="https://www.donneesquebec.ca/recherche/dataset/vque_14/resource/8902c982-bbb6-4e84-814a-550d094c0bae">Cartographie des lieux et infrastructures administrés par la Ville de Québec et certaines institutions privées. | Données Québec</a></li>
+<li><a href="https://www.donneesquebec.ca/recherche/dataset/lieux-et-edifices-municipaux">Lieux et édifices municipaux de la ville de Laval | Données Québec</a></li>
+<li><a href="https://www.donneesquebec.ca/recherche/dataset/lieux-publics">Lieux publics de la ville de Rimouski | Données Québec</a></li>
 </ul>

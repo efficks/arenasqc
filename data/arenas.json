@@ -3145,10 +3145,11 @@
         "coordinates": {
             "type": "Point",
             "coordinates": [
-                -73.914729,
-                45.5740625
+                -73.8978556,
+                45.5611559
             ]
-        }
+        },
+        "edited":true
     },
     {
         "name": "Evolution Ice",
@@ -3269,7 +3270,8 @@
                 -73.7219463,
                 45.5563529
             ]
-        }
+        },
+        "opendata":false
     },
     {
         "name": "Sportplex de l'Énergie",
@@ -3870,14 +3872,16 @@
     {
         "name": "Aréna Patrick Poulin",
         "address": "22 av. Chanoine-Côté",
-        "city": "Vanier",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.256216,
                 46.8150557
             ]
-        }
+        },
+        "edited":true
+
     },
     {
         "name": "Aréna Saint-Édouard-de-Frampton",
