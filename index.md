@@ -49,3 +49,6 @@ function addArenas(arenas){
 fetch('./data/arenas.json').then((response) => response.json())
     .then((json) => addArenas(json));
  </script>
+
+ ### Sources
+ * [Arénas du Québec | AQAIRS](https://www.aqairs.ca/bibliotheque?doc=1)
