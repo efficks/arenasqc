@@ -1482,13 +1482,13 @@
     },
     {
         "name": "Aréna Chénier",
-        "address": "8200 rue Chénier",
+        "address": "8200 Avenue Chénier",
         "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
-                -73.8013627,
-                45.5139653
+                -73.5410428,
+                45.6013625
             ]
         }
     },
