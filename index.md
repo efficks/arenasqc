@@ -11,16 +11,17 @@
        margin: 0px;
    }
    #map img.olympique { filter: hue-rotate(120deg); }
+   
+   #main_content
+   {
+    max-width: 80%;
+   }
 </style>
    
 <!-- Make sure you put this AFTER Leaflet's CSS -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
-Test
-HTML
-
-
- <div id="map" style="height:300px;"></div>
+ <div id="map" style="height:600px;"></div>
 
 
  <script>
