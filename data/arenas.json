@@ -1369,7 +1369,8 @@
                 -72.5081348,
                 46.3290586
             ]
-        }
+        },
+        "disabled": true
     },
     {
         "name": "Sportium municipal",
@@ -2558,7 +2559,8 @@
                 -73.76549969295979,
                 45.34306735108736
             ]
-        }
+        },
+        "type":"olympique"
     },
     {
         "name": "Centre récréatif Aussant",
@@ -4724,5 +4726,17 @@
                 46.7705876
             ]
         }
-    }
+    },
+    {
+        "name": "Complexe sportif Desjardins",
+        "address": "150 2e Rue Est",
+        "city": "Rimouski",
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -68.5127618,
+                48.4493853
+            ]
+        }
+    },
 ]

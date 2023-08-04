@@ -35,7 +35,7 @@
 function addArenas(arenas){
     arenas.forEach(arena => {
         console.log(arena);
-        if(arena["coordinates"] !== null)
+        if(arena["coordinates"] !== null && (arena["disabled"] === undefined || arena["disabled"] === false))
         {
             let marker = L.marker([arena["coordinates"]["coordinates"][1],arena["coordinates"]["coordinates"][0]]).addTo(map);
             if(arena["type"]==="olympique")
