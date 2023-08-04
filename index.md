@@ -36,7 +36,8 @@ function addArenas(arenas){
     excludedCity = [
         "Québec",
         "Sherbrooke",
-        "Laval"
+        "Laval",
+        "Saguenay"
     ]
     arenas.forEach(arena => {
         if(
@@ -78,8 +79,17 @@ function addLavalArena(infra){
     infra.forEach(arena => {
         if(arena["type-commun"]==="Aréna")
         {
-            console.log(arena);
             L.marker([arena["latitude"],arena["longitude"]]).addTo(map);
+        }
+    })
+}
+
+function addSaguenayArena(infra){
+    infra["features"].forEach(arena => {
+        if(arena["properties"]["type_instal"]==="Aréna")
+        {
+            let coordinates = arena["geometry"]["coordinates"]
+            L.marker([coordinates[1], coordinates[0]]).addTo(map);
         }
     })
 }
@@ -95,6 +105,12 @@ fetch("https://www.donneesquebec.ca/recherche/dataset/daa10606-5fdd-4c9b-b5ef-23
 
 fetch("https://www.donneesquebec.ca/recherche/dataset/fddf1658-248e-49d6-99ed-4899a737f14a/resource/d870514a-0117-4155-8a88-cb2fbf60a330/download/lieux.json").then((response) => response.json())
     .then((json) => addLavalArena(json));
+
+//fetch("https://www.gatineau.ca/upload/donneesouvertes/LIEU_PUBLIC.json", { mode: 'no-cors'}).then((response) => response.json())
+//    .then((json) => addSherbrookeArena(json));
+
+fetch("https://www.donneesquebec.ca/recherche/dataset/c78f9d21-d074-43e9-b406-6a0122836c73/resource/d332e2a1-5d12-43c2-802e-d4fdd0ed893c/download/sagarenastade.json").then((response) => response.json())
+    .then((json) => addSaguenayArena(json));
  </script>
 
 <h3>Sources</h3>
@@ -104,5 +120,5 @@ fetch("https://www.donneesquebec.ca/recherche/dataset/fddf1658-248e-49d6-99ed-48
 Données ouvertes de la Ville de Sherbrooke, Installations sportives et récréatives</a></li>
 <li><a href="https://www.donneesquebec.ca/recherche/dataset/vque_14/resource/8902c982-bbb6-4e84-814a-550d094c0bae">Cartographie des lieux et infrastructures administrés par la Ville de Québec et certaines institutions privées. | Données Québec</a></li>
 <li><a href="https://www.donneesquebec.ca/recherche/dataset/lieux-et-edifices-municipaux">Lieux et édifices municipaux de la ville de Laval | Données Québec</a></li>
-<li><a href="https://www.donneesquebec.ca/recherche/dataset/lieux-publics">Lieux publics de la ville de Rimouski | Données Québec</a></li>
+<li><a href="https://www.donneesquebec.ca/recherche/dataset/sag_arena-et-batiment-sportif">Aréna et bâtiment sportif de la ville de Saguenay | Données Québec</a></li>
 </ul>
