@@ -3,14 +3,15 @@
    crossorigin=""/>
 
 <style>
-         #map img
-         {
-             position: absolute;
-             -webkit-box-shadow: revert;
-             border: revert;
-             margin: 0px;
-         }
-     </style>
+   #map img
+   {
+       position: absolute;
+       -webkit-box-shadow: revert;
+       border: revert;
+       margin: 0px;
+   }
+   #map img.olympique { filter: hue-rotate(120deg); }
+</style>
    
 <!-- Make sure you put this AFTER Leaflet's CSS -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
@@ -23,13 +24,27 @@ HTML
 
 
  <script>
-   var map = L.map('map').setView([53.3443221,-78.9722056], 4);
+      var map = L.map('map').setView([53.3443221,-78.9722056], 4);
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '© OpenStreetMap'
 }).addTo(map);
 
+function addArenas(arenas){
+    arenas.forEach(arena => {
+        console.log(arena);
+        if(arena["coordinates"] !== null)
+        {
+            let marker = L.marker([arena["coordinates"]["coordinates"][1],arena["coordinates"]["coordinates"][0]]).addTo(map);
+            if(arena["type"]==="olympique")
+            {
+                marker._icon.classList.add("olympique");
+            }
+        }
+    });
+}
+
 fetch('./data/arenas.json').then((response) => response.json())
-    .then((json) => console.log(json));
+    .then((json) => addArenas(json));
  </script>
