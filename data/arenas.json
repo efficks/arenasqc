@@ -375,6 +375,7 @@
         "name": "Centre Marcel-Dionne et Olympia Yvan-Cournoyer",
         "address": "1145 boul. Jean-de-Brébeuf",
         "city": "Drummondville",
+        "type": "olympique",
         "coordinates": {
             "type": "Point",
             "coordinates": [
@@ -729,10 +730,13 @@
         "name": "Aréna Brad-ShImun",
         "address": "179 route 138",
         "city": "Nutashkuan",
+        "coordinates": {
+            "type": "Point",
         "coordinates": [
             -61.8037,
             50.135
         ]
+        }
     },
     {
         "name": "Aréna Bertrand-Lepage",
@@ -2019,6 +2023,7 @@
         "name": "Aréna Maurice-Richard",
         "address": "2800 rue Viau",
         "city": "Montréal",
+        "type": "olympique",
         "coordinates": {
             "type": "Point",
             "coordinates": [
@@ -3255,6 +3260,7 @@
         "name": "Place Bell",
         "address": "1950 rue Claude-Gagné",
         "city": "Laval",
+        "type": "olympique",
         "coordinates": {
             "type": "Point",
             "coordinates": [
@@ -3586,6 +3592,7 @@
         "name": "Aréna Bruno-Verret",
         "address": "981 Route Lagueux",
         "city": "Saint-Étienne",
+        "type": "olympique",
         "coordinates": {
             "type": "Point",
             "coordinates": [
@@ -4689,6 +4696,32 @@
             "coordinates": [
                 -71.06220216060811,
                 48.42828275
+            ]
+        }
+    },
+    {
+        "name": "Colisée Vidéotron",
+        "address": "6000 rue du Colisée",
+        "city": "Trois-Rivières",
+        "type": "olympique",
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -72.5913238,
+                46.3218116
+            ]
+        }
+    },
+    {
+        "name": "Centre de glaces Intact Assurance",
+        "address": "999 Av. De Rochebelle",
+        "city": "Québec",
+        "type": "olympique",
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -71.3013611,
+                46.7705876
             ]
         }
     }
