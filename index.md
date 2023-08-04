@@ -46,11 +46,27 @@ function addArenas(arenas){
     });
 }
 
+function addSherbrookeArena(infra){
+    infra["features"].forEach(arena => {
+        if(arena["attributes"]["TYPE"]==="Aréna")
+        {
+            let coordinates = arena["geometry"]
+            console.log(coordinates);
+            L.marker([coordinates["y"], coordinates["x"]]).addTo(map);
+        }
+    })
+}
+
 fetch('./data/arenas.json').then((response) => response.json())
     .then((json) => addArenas(json));
+
+fetch("https://services3.arcgis.com/qsNXG7LzoUbR4c1C/arcgis/rest/services/InstallationSportLoisir/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json").then((response) => response.json())
+    .then((json) => addSherbrookeArena(json));
  </script>
 
 <h3>Sources</h3>
 <ul>
-   <li><a href="https://www.aqairs.ca/bibliotheque?doc=1">Arénas du Québec | AQAIRS</a></li>
+   <li><a href="https://www.aqairs.ca/bibliotheque?doc=1">Arénas du Québec | AQAIRS, 2019</a></li>
+   <li><a href="https://donneesouvertes-sherbrooke.opendata.arcgis.com/datasets/b6498f3436974ecbb8fa636a7d9c0b2f_0/about">
+Données ouvertes de la Ville de Sherbrooke, Installations sportives et récréatives</a></li>
 </ul>
