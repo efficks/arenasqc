@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "env vue-tsc --noEmit && env NODE_OPTIONS=--max_old_space_size=4096 vite build --base=/arenasqc",
+    "build": "env vue-tsc --noEmit && env NODE_OPTIONS=--max_old_space_size=4096 vite build --base=/arenasqc/",
     "preview": "vite preview",
     "lint": "eslint . --fix --ignore-path .gitignore",
     "deploy": "node scripts/gh-pages-deploy.ts"
