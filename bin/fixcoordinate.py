@@ -1,5 +1,7 @@
 import json
+import csv
 from random import randint
+import re
 from time import sleep
 import geopy
 
@@ -43,16 +45,40 @@ def fix(data):
     print(f"{tofix} entrées restantes")
     print(f"{len(data)} entrées totales")
 
+REREGION = re.compile(r"[^\(]+\((\w+)\)")
+def loadRegions():
+    municipalite = {}
+
+    with open('data/MUN.csv') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            nom = row["munnom"]
+            region = row["regadm"]
+            m = REREGION.match(region)
+            region_no = int(m.group(1))
+            municipalite[nom] = region_no
+    return municipalite
+            
+
+def addRegion(data, municipalites):
+    for arena in data:
+        if "region" not in arena and ("province" not in arena or arena["province"] == "QC"):
+            region = municipalites[arena["city"]]
+            print(region)
+            arena["region"] = region
+
 def exportJSON(data):
     json_object = json.dumps(data, indent=4, ensure_ascii=False).encode('utf8')
  
     # Writing to sample.json
-    with open("data/arenas.json", "wb") as outfile:
+    with open("data/arenas_region.json", "wb") as outfile:
         outfile.write(json_object)
 
 def main():
     data = importJson()
-    fix(data)
+    #fix(data)
+    municipalites = loadRegions()
+    addRegion(data, municipalites)
     exportJSON(data)
 
 if __name__ == "__main__":

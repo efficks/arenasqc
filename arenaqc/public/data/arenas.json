@@ -1,6 +1,6 @@
 [
     {
-        "name": "ArÃ©na de Matagami",
+        "name": "Aréna de Matagami",
         "address": "30 rue Cavellier",
         "city": "Matagami",
         "coordinates": {
@@ -9,34 +9,37 @@
                 -77.6254195,
                 49.7574304
             ]
-        }
+        },
+        "region": 10
     },
     {
-        "name": "ArÃ©na de Ste-Germaine-BoulÃ©",
+        "name": "Aréna de Ste-Germaine-Boulé",
         "address": "240 rue Roy",
-        "city": "Sainte-Germaine-BoulÃ©",
+        "city": "Sainte-Germaine-Boulé",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -79.1153585,
                 48.6159918
             ]
-        }
+        },
+        "region": 8
     },
     {
-        "name": "ArÃ©na Jean-Guy-Perron",
-        "address": "500 Place QuÃ©villon",
-        "city": "Lebel-sur-QuÃ©villon",
+        "name": "Aréna Jean-Guy-Perron",
+        "address": "500 Place Quévillon",
+        "city": "Lebel-sur-Quévillon",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -76.9765288,
                 49.052402
             ]
-        }
+        },
+        "region": 10
     },
     {
-        "name": "ArÃ©na lamgold, Jacques-LaperriÃ¨re, Ã‰vain et Cloutier",
+        "name": "Aréna lamgold, Jacques-Laperrière, Évain et Cloutier",
         "address": "218 avenue Murdoch",
         "city": "Rouyn-Noranda",
         "coordinates": {
@@ -45,10 +48,11 @@
                 -79.0180934,
                 48.2467356
             ]
-        }
+        },
+        "region": 8
     },
     {
-        "name": "ArÃ©na Nicol Auto de La Sarre",
+        "name": "Aréna Nicol Auto de La Sarre",
         "address": "550 rue Principale",
         "city": "La Sarre",
         "coordinates": {
@@ -57,10 +61,11 @@
                 -79.2053455,
                 48.7958953
             ]
-        }
+        },
+        "region": 8
     },
     {
-        "name": "ArÃ©na Rogatien-Vachon",
+        "name": "Aréna Rogatien-Vachon",
         "address": "71 6e Avenue Ouest",
         "city": "Palmarolle",
         "coordinates": {
@@ -69,7 +74,8 @@
                 -79.2019739,
                 48.6667709
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Centre air Creebec",
@@ -81,7 +87,8 @@
                 -77.7856668,
                 48.1049135
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Centre Joachim-Tremblay",
@@ -93,10 +100,11 @@
                 -79.0050332,
                 48.7548317
             ]
-        }
+        },
+        "region": 8
     },
     {
-        "name": "Centre Michel-BriÃ¨re",
+        "name": "Centre Michel-Brière",
         "address": "901 rue Royale",
         "city": "Malartic",
         "coordinates": {
@@ -105,10 +113,11 @@
                 -78.1270747,
                 48.1363793
             ]
-        }
+        },
+        "region": 8
     },
     {
-        "name": "Centre RÃ©crÃ©atif de Dupuy",
+        "name": "Centre Récréatif de Dupuy",
         "address": "6 7e Avenue Est",
         "city": "Dupuy",
         "coordinates": {
@@ -117,10 +126,11 @@
                 -79.35692591735915,
                 48.8310166
             ]
-        }
+        },
+        "region": 8
     },
     {
-        "name": "Centre rÃ©crÃ©atif de Taschereau",
+        "name": "Centre récréatif de Taschereau",
         "address": "50 rue Morin",
         "city": "Taschereau",
         "coordinates": {
@@ -129,10 +139,11 @@
                 -78.6845518,
                 48.6624357
             ]
-        }
+        },
+        "region": 8
     },
     {
-        "name": "Centre sportif AndrÃ©-DubÃ©",
+        "name": "Centre sportif André-Dubé",
         "address": "551 10e Avenue",
         "city": "Senneterre",
         "coordinates": {
@@ -141,10 +152,11 @@
                 -77.2404754,
                 48.3903919
             ]
-        }
+        },
+        "region": 8
     },
     {
-        "name": "ColisÃ©e de Guigues",
+        "name": "Colisée de Guigues",
         "address": "21 rue Principale Nord",
         "city": "Saint-Bruno-de-Guigues",
         "coordinates": {
@@ -153,7 +165,8 @@
                 -79.437875375,
                 47.463878375
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Complexe sportif d'Amos",
@@ -165,31 +178,34 @@
                 -78.1117138,
                 48.569731
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Le Centre",
         "address": "20 rue Humphrey",
-        "city": "TÃ©miscaming",
+        "city": "Témiscaming",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -79.0933389,
                 46.7217705
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Membre honoraire",
         "address": "24 rue Des Iles",
-        "city": "RiviÃ¨re-HÃ©va",
+        "city": "Rivière-Héva",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -78.14635344716227,
                 48.23960554821588
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Membre honoraire",
@@ -201,11 +217,12 @@
                 -79.04011840397958,
                 48.244215905935576
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Polydium",
-        "address": "85 rue CÃ´tÃ©",
+        "address": "85 rue Côté",
         "city": "Notre-Dame-du-Nord",
         "coordinates": {
             "type": "Point",
@@ -213,7 +230,8 @@
                 -79.4891462,
                 47.5902427
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Ville de Ville-Marie",
@@ -225,11 +243,12 @@
                 -79.4374412,
                 47.3285184
             ]
-        }
+        },
+        "region": 8
     },
     {
-        "name": "ArÃ©na Connie-Dion",
-        "address": "100 rue GaspÃ©",
+        "name": "Aréna Connie-Dion",
+        "address": "100 rue Gaspé",
         "city": "Val-des-Sources",
         "coordinates": {
             "type": "Point",
@@ -237,10 +256,11 @@
                 -71.9424752,
                 45.780996
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "ArÃ©na de Bedford",
+        "name": "Aréna de Bedford",
         "address": "15 Marziali",
         "city": "Bedford",
         "coordinates": {
@@ -249,10 +269,11 @@
                 -72.9960711,
                 45.1183827
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "ArÃ©na de Magog",
+        "name": "Aréna de Magog",
         "address": "7 rue Principale",
         "city": "Magog",
         "coordinates": {
@@ -261,10 +282,11 @@
                 -72.1468359,
                 45.2649413
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "ArÃ©na de Weedon",
+        "name": "Aréna de Weedon",
         "address": "520 2e Avenue",
         "city": "Weedon",
         "coordinates": {
@@ -273,22 +295,24 @@
                 -71.4607058,
                 45.707174
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "ArÃ©na Guy-Nadeau",
+        "name": "Aréna Guy-Nadeau",
         "address": "1155 rue St-Michel",
-        "city": "Saint-CÃ©saire",
+        "city": "Saint-Césaire",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.01265184783863,
                 45.4127422
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Jacques-Chagnon",
+        "name": "Aréna Jacques-Chagnon",
         "address": "350 avenue du Parc",
         "city": "Waterloo",
         "coordinates": {
@@ -297,10 +321,11 @@
                 -72.5249345,
                 45.3417411
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "ArÃ©na Jean-Charles-Perreault",
+        "name": "Aréna Jean-Charles-Perreault",
         "address": "2 boul. Ouellet",
         "city": "Warwick",
         "coordinates": {
@@ -309,10 +334,11 @@
                 -71.9999772,
                 45.945911
             ]
-        }
+        },
+        "region": 17
     },
     {
-        "name": "ArÃ©na LÃ©o-Paul-Boutin",
+        "name": "Aréna Léo-Paul-Boutin",
         "address": "1051 rue St-Jean",
         "city": "Plessisville",
         "coordinates": {
@@ -321,10 +347,11 @@
                 -71.7880539,
                 46.217175
             ]
-        }
+        },
+        "region": 17
     },
     {
-        "name": "ArÃ©na Mont Ste-Anne",
+        "name": "Aréna Mont Ste-Anne",
         "address": "2100 Chemin Ste-Catherine",
         "city": "Sherbrooke",
         "coordinates": {
@@ -333,10 +360,11 @@
                 -71.9325961,
                 45.3729633
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "ArÃ©na Pat Burns (collÃ¨ge Stanstead)",
+        "name": "Aréna Pat Burns (collège Stanstead)",
         "address": "27 Pat Burns",
         "city": "Stanstead",
         "coordinates": {
@@ -345,11 +373,12 @@
                 -72.09139006619662,
                 45.01324065
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "ArÃ©na Valcourt",
-        "address": "1111 boul. des CyprÃ¨s",
+        "name": "Aréna Valcourt",
+        "address": "1111 boul. des Cyprès",
         "city": "Valcourt",
         "coordinates": {
             "type": "Point",
@@ -357,7 +386,8 @@
                 -72.3054307,
                 45.4953293
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Centre J.A.-Lemay",
@@ -369,11 +399,12 @@
                 -72.00566181902735,
                 45.5688776634602
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Centre Marcel-Dionne et Olympia Yvan-Cournoyer",
-        "address": "1145 boul. Jean-de-BrÃ©beuf",
+        "address": "1145 boul. Jean-de-Brébeuf",
         "city": "Drummondville",
         "type": "olympique",
         "coordinates": {
@@ -382,10 +413,11 @@
                 -72.47489409443179,
                 45.85870665
             ]
-        }
+        },
+        "region": 17
     },
     {
-        "name": "Centre rÃ©crÃ©atif GÃ©rard Couillard",
+        "name": "Centre récréatif Gérard Couillard",
         "address": "435 rue Vincent",
         "city": "Coaticook",
         "coordinates": {
@@ -394,11 +426,12 @@
                 -71.7966796,
                 45.1342968
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "Centre RÃ©crÃ©atif Rock Forest",
-        "address": "5265 rue de GaspÃ©",
+        "name": "Centre Récréatif Rock Forest",
+        "address": "5265 rue de Gaspé",
         "city": "Sherbrooke",
         "coordinates": {
             "type": "Point",
@@ -406,7 +439,8 @@
                 -71.9886546,
                 45.3687892
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Centre sportif",
@@ -418,7 +452,8 @@
                 -72.1358241,
                 46.2011744
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Centre sportif d'Acton Vale",
@@ -430,19 +465,21 @@
                 -72.573432,
                 45.6558934
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "Centre sportif MÃ©gantic",
+        "name": "Centre sportif Mégantic",
         "address": "5400 rue Papineau",
-        "city": "Lac-MÃ©gantic",
+        "city": "Lac-Mégantic",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -70.87887990460902,
                 45.57683815
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Centre sportif P.E. Lefebvre",
@@ -454,10 +491,11 @@
                 -72.1471605,
                 45.6667425
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "Centre sportif Paul-de-la-SablonniÃ¨re",
+        "name": "Centre sportif Paul-de-la-Sablonnière",
         "address": "55 rue Baillargeon",
         "city": "Princeville",
         "coordinates": {
@@ -466,11 +504,12 @@
                 -71.8725143,
                 46.1771722
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Complexe sportif Thibault GM",
-        "address": "2959 de lâ€™UniversitÃ©",
+        "address": "2959 de l’Université",
         "city": "Sherbrooke",
         "coordinates": {
             "type": "Point",
@@ -478,11 +517,12 @@
                 -71.94607888705316,
                 45.38001935
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Granby Multi-Sports",
-        "address": "601 LÃ©on-Harmel",
+        "address": "601 Léon-Harmel",
         "city": "Granby",
         "coordinates": {
             "type": "Point",
@@ -490,11 +530,12 @@
                 -72.7462929,
                 45.4054014
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "Membre Ã  vie",
-        "address": "1455 BÃ©lair",
+        "name": "Membre à vie",
+        "address": "1455 Bélair",
         "city": "Acton Vale",
         "coordinates": {
             "type": "Point",
@@ -502,7 +543,8 @@
                 -72.5646076,
                 45.65582655142857
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Membre honoraire",
@@ -514,7 +556,8 @@
                 -72.1471605,
                 45.6667425
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Service des Loisirs de Saint-Hyacinthe",
@@ -526,7 +569,8 @@
                 -72.95402976168032,
                 45.634800150000004
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Service des loisirs et de la vie communautaire -Pavillon des sports Roland Desourdy",
@@ -538,11 +582,12 @@
                 -72.7402879,
                 45.2048941
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Service des loisirs, culture et tourisme",
-        "address": "477 rue de l'HÃ´tel de Ville",
+        "address": "477 rue de l'Hôtel de Ville",
         "city": "Farnham",
         "coordinates": {
             "type": "Point",
@@ -550,10 +595,11 @@
                 -72.9773397,
                 45.2834126
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "SociÃ©tÃ© de l'arÃ©na St-Cyrille Inc.",
+        "name": "Société de l'aréna St-Cyrille Inc.",
         "address": "4675 rue Principale",
         "city": "Saint-Cyrille-de-Wendover",
         "coordinates": {
@@ -562,7 +608,8 @@
                 -72.4186191,
                 45.9380174
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Ville de Bromont (SLCVC)",
@@ -574,7 +621,8 @@
                 -72.6424641,
                 45.3364677
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Ville de Sherbrooke (SSCVC)",
@@ -586,7 +634,8 @@
                 -71.8843891,
                 45.3950821
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Ville de Victoriaville",
@@ -598,22 +647,24 @@
                 -71.945093,
                 46.0557067
             ]
-        }
+        },
+        "region": 17
     },
     {
-        "name": "ArÃ©na Conrad-Parent et ArÃ©na Guy-Carbonneau",
+        "name": "Aréna Conrad-Parent et Aréna Guy-Carbonneau",
         "address": "490 rue Jolliet",
-        "city": "Sept-ÃŽles",
+        "city": "Sept-Îles",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -66.1607445,
                 50.201427
             ]
-        }
+        },
+        "region": 9
     },
     {
-        "name": "ArÃ©na Daniel-Demers",
+        "name": "Aréna Daniel-Demers",
         "address": "Place Daviault",
         "city": "Fermont",
         "coordinates": {
@@ -622,10 +673,11 @@
                 -67.0856832,
                 52.798134
             ]
-        }
+        },
+        "region": 9
     },
     {
-        "name": "ArÃ©na Denis-Perron",
+        "name": "Aréna Denis-Perron",
         "address": "1235 de la Digue",
         "city": "Havre-Saint-Pierre",
         "coordinates": {
@@ -634,10 +686,11 @@
                 -63.59734,
                 50.2451092
             ]
-        }
+        },
+        "region": 9
     },
     {
-        "name": "ArÃ©na Terry Lalo",
+        "name": "Aréna Terry Lalo",
         "address": "C.P. 290",
         "city": "La Romaine",
         "region": 9,
@@ -651,7 +704,7 @@
     },
     {
         "name": "Centre Henry-Leonard",
-        "address": "70 avenue Michel-Ã‰mond",
+        "address": "70 avenue Michel-Émond",
         "city": "Baie-Comeau",
         "coordinates": {
             "type": "Point",
@@ -659,7 +712,8 @@
                 -68.1669625,
                 49.2096594
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Centre Henri-Desjardins",
@@ -671,19 +725,21 @@
                 -68.268513,
                 49.1915372
             ]
-        }
+        },
+        "region": 9
     },
     {
-        "name": "Centre rÃ©crÃ©atif de SacrÃ©-Coeur",
+        "name": "Centre récréatif de Sacré-Coeur",
         "address": "88 rue Principale Nord",
-        "city": "SacrÃ©-Coeur",
+        "city": "Sacré-Coeur",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -69.80148765254599,
                 48.23292224844965
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Centre sportif Charles-Edouard Boucher",
@@ -695,7 +751,8 @@
                 -69.4073556,
                 48.3514502
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Complexe Guy-Ouellet",
@@ -707,11 +764,12 @@
                 -69.0988146,
                 48.7337281
             ]
-        }
+        },
+        "region": 9
     },
     {
-        "name": "Complexe rÃ©crÃ©atif et culturel",
-        "address": "21 Des CÃ¨dres",
+        "name": "Complexe récréatif et culturel",
+        "address": "21 Des Cèdres",
         "city": "Port-Cartier",
         "coordinates": {
             "type": "Point",
@@ -719,29 +777,31 @@
                 -66.8832166,
                 50.0214086
             ]
-        }
+        },
+        "region": 9
     },
     {
-        "name": "ArÃ©na Mario-Vollant",
+        "name": "Aréna Mario-Vollant",
         "address": "2 rue Tshi-Nuen",
-        "city": "Sept-ÃŽles",
+        "city": "Sept-Îles",
         "region": 9,
         "coordinates": null
     },
     {
-        "name": "ArÃ©na Brad-ShImun",
+        "name": "Aréna Brad-ShImun",
         "address": "179 route 138",
         "city": "Natashquan",
         "coordinates": {
             "type": "Point",
-        "coordinates": [
-            -61.8037,
-            50.135
-        ]
-        }
+            "coordinates": [
+                -61.8037,
+                50.135
+            ]
+        },
+        "region": 9
     },
     {
-        "name": "ArÃ©na Bertrand-Lepage",
+        "name": "Aréna Bertrand-Lepage",
         "address": "5 Notre-Dame Est",
         "city": "Trois-Pistoles",
         "coordinates": {
@@ -750,22 +810,24 @@
                 -69.1753126,
                 48.1254565
             ]
-        }
+        },
+        "region": 1
     },
     {
-        "name": "ArÃ©na duBreton",
-        "address": "4 rue du CollÃ¨ge",
-        "city": "Saint-Hubert-de-RiviÃ¨re-du-Loup",
+        "name": "Aréna duBreton",
+        "address": "4 rue du Collège",
+        "city": "Saint-Hubert-de-Rivière-du-Loup",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -69.1522055,
                 47.8164542
             ]
-        }
+        },
+        "region": 1
     },
     {
-        "name": "ArÃ©na Gilbert-Desrosiers",
+        "name": "Aréna Gilbert-Desrosiers",
         "address": "127 Ave. Louisbourg",
         "city": "Bonaventure",
         "coordinates": {
@@ -774,10 +836,11 @@
                 -65.49000640623488,
                 48.049300706372414
             ]
-        }
+        },
+        "region": 11
     },
     {
-        "name": "ArÃ©na J. Robert-LÃ©vesque",
+        "name": "Aréna J. Robert-Lévesque",
         "address": "149 7e Rue Ouest",
         "city": "Sainte-Anne-des-Monts",
         "coordinates": {
@@ -786,7 +849,8 @@
                 -66.49126654658153,
                 49.1222709712883
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Carrefour Sportif",
@@ -798,7 +862,8 @@
                 -67.43587,
                 48.462407
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre culturel de St-Quentin Inc.",
@@ -810,41 +875,44 @@
     {
         "name": "Centre Premier Tech",
         "address": "75 rue Frontenac",
-        "city": "RiviÃ¨re-du-Loup",
+        "city": "Rivière-du-Loup",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -69.536946,
                 47.8276084
             ]
-        }
+        },
+        "region": 1
     },
     {
-        "name": "Centre rÃ©crÃ©atif",
+        "name": "Centre récréatif",
         "address": "210 du Carrefour",
-        "city": "Grande-RiviÃ¨re",
+        "city": "Grande-Rivière",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -64.4977258,
                 48.4019872
             ]
-        }
+        },
+        "region": 11
     },
     {
-        "name": "Centre sportif (ArÃ©na Cabano et ArÃ©na Jacques-DubÃ©, Notre-Dame-du-Lac)",
+        "name": "Centre sportif (Aréna Cabano et Aréna Jacques-Dubé, Notre-Dame-du-Lac)",
         "address": "861 rue Commerciale Nord",
-        "city": "TÃ©miscouata-sur-le-Lac",
+        "city": "Témiscouata-sur-le-Lac",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -68.8524919,
                 47.6578468
             ]
-        }
+        },
+        "region": 1
     },
     {
-        "name": "Centre sportif ClÃ©ment-Tremblay",
+        "name": "Centre sportif Clément-Tremblay",
         "address": "55 rue Ste-Famille",
         "city": "Chandler",
         "coordinates": {
@@ -853,10 +921,11 @@
                 -64.681524,
                 48.351374
             ]
-        }
+        },
+        "region": 11
     },
     {
-        "name": "Centre sportif GÃ©rard-DuchaÃ®ne",
+        "name": "Centre sportif Gérard-Duchaîne",
         "address": "1 rue St-Jacques Nord",
         "city": "Causapscal",
         "coordinates": {
@@ -865,7 +934,8 @@
                 -67.221488,
                 48.354178
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre sportif John-Lapointe",
@@ -877,11 +947,12 @@
                 -65.67931345,
                 48.1013626
             ]
-        }
+        },
+        "region": 11
     },
     {
-        "name": "ColisÃ©e BÃ©ton Provincial",
-        "address": "230 ave. St-JÃ©rÃ´me",
+        "name": "Colisée Béton Provincial",
+        "address": "230 ave. St-Jérôme",
         "city": "Matane",
         "coordinates": {
             "type": "Point",
@@ -889,10 +960,11 @@
                 -67.530534,
                 48.8432051
             ]
-        }
+        },
+        "region": 1
     },
     {
-        "name": "ColisÃ©e FinanciÃ¨re Sun Life",
+        "name": "Colisée Financière Sun Life",
         "address": "111 2e Rue Ouest",
         "city": "Rimouski",
         "coordinates": {
@@ -901,7 +973,8 @@
                 -68.5216505,
                 48.4417014
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Complexe Louis-Santerre",
@@ -913,19 +986,21 @@
                 -69.0208573,
                 47.8956008
             ]
-        }
+        },
+        "region": 1
     },
     {
-        "name": "Complexe Sportif de PaspÃ©biac",
+        "name": "Complexe Sportif de Paspébiac",
         "address": "185 Rue Maldemay",
-        "city": "PaspÃ©biac",
+        "city": "Paspébiac",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -65.2445044,
                 48.0339257
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Complexe sportif Jean-Marie-Jobin",
@@ -937,19 +1012,21 @@
                 -65.859713,
                 48.165988
             ]
-        }
+        },
+        "region": 11
     },
     {
-        "name": "Complexe sportif Rosaire-BÃ©langer",
+        "name": "Complexe sportif Rosaire-Bélanger",
         "address": "36 rue des Pins Est",
-        "city": "RiviÃ¨re-Bleue",
+        "city": "Rivière-Bleue",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -69.0414863,
                 47.434991
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Membre honoraire",
@@ -961,7 +1038,8 @@
                 -65.859713,
                 48.165988
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Membre honoraire",
@@ -973,11 +1051,12 @@
                 -69.0208573,
                 47.8956008
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Membre honoraire",
-        "address": "630 rue VÃ©zina",
+        "address": "630 rue Vézina",
         "city": "Trois-Pistoles",
         "coordinates": {
             "type": "Point",
@@ -985,7 +1064,8 @@
                 -69.1680429,
                 48.1188011
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Membre honoraire",
@@ -997,11 +1077,12 @@
                 -67.5182362368421,
                 48.84694113157895
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Membre honoraire",
-        "address": "372 du PÃ¨re-Leneuf",
+        "address": "372 du Père-Leneuf",
         "city": "Rimouski",
         "coordinates": {
             "type": "Point",
@@ -1009,10 +1090,11 @@
                 -68.5231748,
                 48.438618
             ]
-        }
+        },
+        "region": 1
     },
     {
-        "name": "MunicipalitÃ© de Nouvelle",
+        "name": "Municipalité de Nouvelle",
         "address": "470 rue Francoeur",
         "city": "Nouvelle",
         "coordinates": {
@@ -1021,10 +1103,11 @@
                 -66.31330007639667,
                 48.13829672759821
             ]
-        }
+        },
+        "region": 11
     },
     {
-        "name": "MunicipalitÃ© de Port-Daniel-Gascons",
+        "name": "Municipalité de Port-Daniel-Gascons",
         "address": "494 Route 132",
         "city": "Port-Daniel-Gascons",
         "coordinates": {
@@ -1033,10 +1116,11 @@
                 -64.969926,
                 48.179574
             ]
-        }
+        },
+        "region": 11
     },
     {
-        "name": "MunicipalitÃ© de Saint-Jean-de-Dieu",
+        "name": "Municipalité de Saint-Jean-de-Dieu",
         "address": "32 rue Principale Sud",
         "city": "Saint-Jean-de-Dieu",
         "coordinates": {
@@ -1045,24 +1129,26 @@
                 -69.0463812,
                 48.0010343
             ]
-        }
+        },
+        "region": 1
     },
     {
-        "name": "MunicipalitÃ© des ÃŽles-de-la-Madeleine",
+        "name": "Municipalité des Îles-de-la-Madeleine",
         "address": "460 chemin Principal",
-        "city": "Les ÃŽles-de-la-Madeleine",
+        "city": "Les Îles-de-la-Madeleine",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -61.8747087,
                 47.3740442
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Palais des sports",
-        "address": "20 rue de l'Ã‰cole",
-        "city": "Saint-LÃ©onard",
+        "address": "20 rue de l'École",
+        "city": "Saint-Léonard",
         "coordinates": null,
         "province": "NB"
     },
@@ -1076,35 +1162,38 @@
                 -68.8647768,
                 48.2942509
             ]
-        }
+        },
+        "region": 1
     },
     {
-        "name": "Centre rÃ©crÃ©atif Luc-Germain de GaspÃ©",
+        "name": "Centre récréatif Luc-Germain de Gaspé",
         "address": "90 rue Jacques-Cartier",
-        "city": "GaspÃ©",
+        "city": "Gaspé",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -64.4764507,
                 48.8246714
             ]
-        }
+        },
+        "region": 11
     },
     {
-        "name": "Services des loisirs DÃ©gelis",
+        "name": "Services des loisirs Dégelis",
         "address": "369 Principale",
-        "city": "DÃ©gelis",
+        "city": "Dégelis",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -68.64748300000001,
                 47.5479375
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Stade du centenaire",
-        "address": "40 ave. HÃ´tel de Ville",
+        "address": "40 ave. Hôtel de Ville",
         "city": "Mont-Joli",
         "coordinates": {
             "type": "Point",
@@ -1112,7 +1201,8 @@
                 -68.1888627,
                 48.5852031
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Ville de Carleton-sur-Mer",
@@ -1124,7 +1214,8 @@
                 -66.1220516,
                 48.1017851
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Ville d'Edmundston, Loisirs et Culture",
@@ -1134,7 +1225,7 @@
         "province": "NB"
     },
     {
-        "name": "ArÃ©na de Grand-MÃ¨re",
+        "name": "Aréna de Grand-Mère",
         "address": "601 3e avenue",
         "city": "Shawinigan",
         "coordinates": {
@@ -1143,10 +1234,11 @@
                 -72.6908327,
                 46.6116608
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ArÃ©na de Saint-Boniface",
+        "name": "Aréna de Saint-Boniface",
         "address": "180 rue Langevin",
         "city": "Saint-Boniface",
         "coordinates": {
@@ -1155,10 +1247,11 @@
                 -72.8294723,
                 46.5015982
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ArÃ©na Ã‰mile-BÃ©dard",
+        "name": "Aréna Émile-Bédard",
         "address": "540 207e avenue ",
         "city": "Shawinigan",
         "coordinates": {
@@ -1167,22 +1260,24 @@
                 -72.6547169,
                 46.6255432
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ArÃ©na Fernand-Asselin",
+        "name": "Aréna Fernand-Asselin",
         "address": "255 Rue Maurice-L-Duplessis",
-        "city": "Trois-RiviÃ¨res",
+        "city": "Trois-Rivières",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.58335651497615,
                 46.3654745
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ArÃ©na Gilles-Bourassa",
+        "name": "Aréna Gilles-Bourassa",
         "address": "1609 117e rue",
         "city": "Shawinigan",
         "coordinates": {
@@ -1191,58 +1286,63 @@
                 -72.75497222485971,
                 46.51749080360756
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ArÃ©na Glace Olympique Ã‰nergie",
+        "name": "Aréna Glace Olympique Énergie",
         "address": "260 rue Dessureault",
-        "city": "Trois-RiviÃ¨res",
+        "city": "Trois-Rivières",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.5339203,
                 46.3740061
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ArÃ©na Jean-Guy Talbot",
+        "name": "Aréna Jean-Guy Talbot",
         "address": "245 rue de Grandmont",
-        "city": "Trois-RiviÃ¨res",
+        "city": "Trois-Rivières",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.5325862,
                 46.3684673
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ArÃ©na JÃ©rÃ´me-Cotnoir",
+        "name": "Aréna Jérôme-Cotnoir",
         "address": "5225 rue de Courcelette",
-        "city": "Trois-RiviÃ¨res",
+        "city": "Trois-Rivières",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.58992240542631,
                 46.3407653
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ArÃ©na le Prix du Gros.com",
+        "name": "Aréna le Prix du Gros.com",
         "address": "161 rue Gamelin",
-        "city": "Sainte-Anne-de-la-PÃ©rade",
+        "city": "Sainte-Anne-de-la-Pérade",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.20346304669187,
                 46.56617758944931
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ArÃ©na Pierre-Provencher",
+        "name": "Aréna Pierre-Provencher",
         "address": "180 rue de Monseigneur-Panet",
         "city": "Nicolet",
         "coordinates": {
@@ -1251,19 +1351,21 @@
                 -72.6161236,
                 46.226352
             ]
-        }
+        },
+        "region": 17
     },
     {
-        "name": "ArÃ©na Roland-Rheault",
+        "name": "Aréna Roland-Rheault",
         "address": "1295 avenue Nicolas-Perrot",
-        "city": "BÃ©cancour",
+        "city": "Bécancour",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.4362555,
                 46.3480884
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Centre culturel et sportif",
@@ -1275,7 +1377,8 @@
                 -72.1834862,
                 46.4874347
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Centre Gervais Auto",
@@ -1287,19 +1390,21 @@
                 -72.743972,
                 46.5473937
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Centre Richard-Lebeau",
         "address": "375 rue Germain",
-        "city": "Saint-LÃ©onard-d'Aston",
+        "city": "Saint-Léonard-d'Aston",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.3713302,
                 46.1099158
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Centre sportif de Louiseville",
@@ -1311,7 +1416,8 @@
                 -72.94659,
                 46.2524163
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Centre sportif et communautaire",
@@ -1327,19 +1433,20 @@
         }
     },
     {
-        "name": "ColisÃ©e et arÃ©na Claude Mongrain",
+        "name": "Colisée et aréna Claude Mongrain",
         "address": "1740 Avenue Gilles-Villeneuve",
-        "city": "Trois-RiviÃ¨res",
+        "city": "Trois-Rivières",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.5594132,
                 46.3484859
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ColisÃ©e municipal",
+        "name": "Colisée municipal",
         "address": "360 Lucien-Filion",
         "city": "La Tuque",
         "coordinates": {
@@ -1348,24 +1455,26 @@
                 -72.78127938372376,
                 47.443455521372584
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Complexe sportif Saint-Louis-de-France",
         "address": "155 de la Mairie",
-        "city": "Trois-RiviÃ¨res",
+        "city": "Trois-Rivières",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.5995903,
                 46.4239364
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "Faubourg Mont-BÃ©nilde",
-        "address": "1325 ave des PensÃ©es",
-        "city": "BÃ©cancour",
+        "name": "Faubourg Mont-Bénilde",
+        "address": "1325 ave des Pensées",
+        "city": "Bécancour",
         "coordinates": {
             "type": "Point",
             "coordinates": [
@@ -1373,7 +1482,8 @@
                 46.3290586
             ]
         },
-        "disabled": true
+        "disabled": true,
+        "region": 17
     },
     {
         "name": "Sportium municipal",
@@ -1385,22 +1495,24 @@
                 -72.5610881,
                 46.7303146
             ]
-        }
+        },
+        "region": 4
     },
     {
-        "name": "ArÃ©na Ahuntsic",
+        "name": "Aréna Ahuntsic",
         "address": "10560 rue St-Hubert",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.664571,
                 45.5571885
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na AndrÃ©-Richard",
+        "name": "Aréna André-Richard",
         "address": "866 boul. Cadieux",
         "city": "Beauharnois",
         "coordinates": {
@@ -1409,10 +1521,11 @@
                 -73.873905,
                 45.30154
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na AndrÃ©-St-Laurent",
+        "name": "Aréna André-St-Laurent",
         "address": "799 rue Lajeunesse",
         "city": "Beloeil",
         "coordinates": {
@@ -1421,22 +1534,24 @@
                 -73.2143086,
                 45.5739361
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "arÃ©na Bill-Durnan",
-        "address": "4988 rue VÃ©zina",
-        "city": "MontrÃ©al",
+        "name": "aréna Bill-Durnan",
+        "address": "4988 rue Vézina",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6444035,
                 45.4948825
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Bob Birnie",
+        "name": "Aréna Bob Birnie",
         "address": "58 avenue Maywood",
         "city": "Pointe-Claire",
         "coordinates": {
@@ -1445,23 +1560,25 @@
                 -73.820967,
                 45.4593643
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Camillien-Houde",
+        "name": "Aréna Camillien-Houde",
         "address": "1696 rue Montcalm",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5598555,
                 45.5198915
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Cartier",
-        "address": "100 montÃ©e Major",
+        "name": "Aréna Cartier",
+        "address": "100 montée Major",
         "city": "Laval",
         "coordinates": {
             "type": "Point",
@@ -1469,34 +1586,37 @@
                 -73.6841373,
                 45.5595614
             ]
-        }
+        },
+        "region": 13
     },
     {
-        "name": "ArÃ©na Chaumont",
+        "name": "Aréna Chaumont",
         "address": "8750 avenue Chaumont",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.546627,
                 45.6109402
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na ChÃ©nier",
-        "address": "8200 Avenue ChÃ©nier",
-        "city": "MontrÃ©al",
+        "name": "Aréna Chénier",
+        "address": "8200 Avenue Chénier",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5410428,
                 45.6013625
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Chomedey",
+        "name": "Aréna Chomedey",
         "address": "1160 boul. Pie X",
         "city": "Laval",
         "coordinates": {
@@ -1505,22 +1625,24 @@
                 -73.7466316,
                 45.5472086
             ]
-        }
+        },
+        "region": 13
     },
     {
-        "name": "ArÃ©na ClÃ©ment-JettÃ©",
+        "name": "Aréna Clément-Jetté",
         "address": "8780 avenue Dubuisson",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5168712,
                 45.6015372
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Cynthia Coull",
+        "name": "Aréna Cynthia Coull",
         "address": "195 rue Empire",
         "city": "Longueuil",
         "coordinates": {
@@ -1529,10 +1651,11 @@
                 -73.48977092785285,
                 45.492498
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na de Blainville",
+        "name": "Aréna de Blainville",
         "address": "1009 rue de la Mairie",
         "city": "Blainville",
         "coordinates": {
@@ -1541,11 +1664,12 @@
                 -73.8836227,
                 45.6874639
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "ArÃ©na de Boisbriand",
-        "address": "999 boul. de la Grande-AllÃ©e",
+        "name": "Aréna de Boisbriand",
+        "address": "999 boul. de la Grande-Allée",
         "city": "Boisbriand",
         "coordinates": {
             "type": "Point",
@@ -1553,10 +1677,11 @@
                 -73.83967037899811,
                 45.613592600000004
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "ArÃ©na de Dorval",
+        "name": "Aréna de Dorval",
         "address": "1450 avenue Dawson",
         "city": "Dorval",
         "coordinates": {
@@ -1565,10 +1690,11 @@
                 -73.75723207902219,
                 45.44192623778875
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na de Kirkland (Kirkland sports complex)",
+        "name": "Aréna de Kirkland (Kirkland sports complex)",
         "address": "16950 boulevard Hymus",
         "city": "Kirkland",
         "coordinates": {
@@ -1577,11 +1703,12 @@
                 -73.8467603,
                 45.4498299
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na de la CitÃ©-des-Jeunes",
-        "address": "2580 rue Paul-GÃ©rin-Lajoie",
+        "name": "Aréna de la Cité-des-Jeunes",
+        "address": "2580 rue Paul-Gérin-Lajoie",
         "city": "Vaudreuil-Dorion",
         "coordinates": {
             "type": "Point",
@@ -1589,10 +1716,11 @@
                 -74.0288102,
                 45.3918892
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na de la Ville de La Prairie",
+        "name": "Aréna de la Ville de La Prairie",
         "address": "250 rue du Vice-Roi",
         "city": "La Prairie",
         "coordinates": {
@@ -1601,46 +1729,50 @@
                 -73.466026,
                 45.4002919
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na de l'universitÃ© Concordia (Ed Meagher)",
+        "name": "Aréna de l'université Concordia (Ed Meagher)",
         "address": "7200 rue Sherbrooke ouest",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.638952,
                 45.4575911
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na de l'universitÃ© de MontrÃ©al",
-        "address": "2050 boul Ã‰douard-Montpetit",
-        "city": "MontrÃ©al",
+        "name": "Aréna de l'université de Montréal",
+        "address": "2050 boul Édouard-Montpetit",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6123128650986,
                 45.5093376
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na de l'universitÃ© McGill (arÃ©na McConnell)",
+        "name": "Aréna de l'université McGill (aréna McConnell)",
         "address": "3883 rue University",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.58188576666666,
                 45.50914450222222
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na de Mascouche",
+        "name": "Aréna de Mascouche",
         "address": "840 rue Brien",
         "city": "Mascouche",
         "coordinates": {
@@ -1649,34 +1781,37 @@
                 -73.599432,
                 45.739634
             ]
-        }
+        },
+        "region": 14
     },
     {
-        "name": "ArÃ©na de RosemÃ¨re",
+        "name": "Aréna de Rosemère",
         "address": "155 rue Charbonneau",
-        "city": "RosemÃ¨re",
+        "city": "Rosemère",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.7838,
                 45.637394
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "arÃ©na Doug-Harvey",
+        "name": "aréna Doug-Harvey",
         "address": "4985 avenue West Hill",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6385717440526,
                 45.47140995
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na du CollÃ¨ge Bourget",
+        "name": "Aréna du Collège Bourget",
         "address": "65 rue St-Pierre",
         "city": "Rigaud",
         "coordinates": {
@@ -1685,10 +1820,11 @@
                 -74.3096332,
                 45.473443
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na du CollÃ¨ge de l'Assomption",
+        "name": "Aréna du Collège de l'Assomption",
         "address": "150 rue Dorval",
         "city": "L'Assomption",
         "coordinates": {
@@ -1697,22 +1833,24 @@
                 -73.4186304,
                 45.8278518
             ]
-        }
+        },
+        "region": 14
     },
     {
-        "name": "ArÃ©na du CollÃ¨ge Jean-de-BrÃ©beuf",
+        "name": "Aréna du Collège Jean-de-Brébeuf",
         "address": "5635 rue Decelles",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6907081,
                 45.5052527
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na du CollÃ¨ge McDonald",
+        "name": "Aréna du Collège McDonald",
         "address": "21111 Chemin Lakeshore",
         "city": "Sainte-Anne-de-Bellevue",
         "coordinates": {
@@ -1721,22 +1859,24 @@
                 -73.9418275,
                 45.4126524
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na du CollÃ¨ge Notre-Dame",
+        "name": "Aréna du Collège Notre-Dame",
         "address": "3791 chemin Queen-Mary",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.62237774638291,
                 45.4932948
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Ã‰mile \"Butch\" Bouchard",
+        "name": "Aréna Émile \"Butch\" Bouchard",
         "address": "200 rue de Gentilly Est",
         "city": "Longueuil",
         "coordinates": {
@@ -1745,10 +1885,11 @@
                 -73.4920966,
                 45.5405319
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Eric-Sharp",
+        "name": "Aréna Eric-Sharp",
         "address": "600 avenue Oak",
         "city": "Saint-Lambert",
         "coordinates": {
@@ -1757,58 +1898,63 @@
                 -73.5088716,
                 45.5046862
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Ã‰tienne-Desmarteau",
+        "name": "Aréna Étienne-Desmarteau",
         "address": "3430 rue De Bellechasse",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.58023942656416,
                 45.555531650000006
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Fleury",
+        "name": "Aréna Fleury",
         "address": "3700 rue Fleury Est",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.637882,
                 45.5834718
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Francis Bouillon",
+        "name": "Aréna Francis Bouillon",
         "address": "3175 rue Rouen",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.55101582727272,
                 45.54191052727273
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Garon",
+        "name": "Aréna Garon",
         "address": "11212 avenue Garon",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6376267,
                 45.5947285
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Gilles Lupien",
+        "name": "Aréna Gilles Lupien",
         "address": "200 rue Macvicar",
         "city": "Brownsburg-Chatham",
         "coordinates": {
@@ -1817,11 +1963,12 @@
                 -74.4040711,
                 45.6749388
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "ArÃ©na Hartland-Monahan",
-        "address": "6200 boul. Arthur-SauvÃ©",
+        "name": "Aréna Hartland-Monahan",
+        "address": "6200 boul. Arthur-Sauvé",
         "city": "Laval",
         "coordinates": {
             "type": "Point",
@@ -1829,34 +1976,37 @@
                 -73.8658532835298,
                 45.5472318
             ]
-        }
+        },
+        "region": 13
     },
     {
-        "name": "ArÃ©na Howie-Morenz",
+        "name": "Aréna Howie-Morenz",
         "address": "8650 avenue Querbes",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6420111,
                 45.534219
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Jacques Lemaire",
+        "name": "Aréna Jacques Lemaire",
         "address": "8681 boul. Champlain",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.621895,
                 45.4191291
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Jacques-Cartier",
+        "name": "Aréna Jacques-Cartier",
         "address": "1143 rue De Lorimier",
         "city": "Longueuil",
         "coordinates": {
@@ -1865,10 +2015,11 @@
                 -73.5005801,
                 45.5176779
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Jean-Rougeau",
+        "name": "Aréna Jean-Rougeau",
         "address": "10 rue Bella-Vista",
         "city": "Saint-Basile-le-Grand",
         "coordinates": {
@@ -1877,10 +2028,11 @@
                 -73.2846502,
                 45.5098358
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Joannie Rochette",
+        "name": "Aréna Joannie Rochette",
         "address": "880 rue Giroux",
         "city": "Berthierville",
         "coordinates": {
@@ -1889,10 +2041,11 @@
                 -73.1942445,
                 46.0844012
             ]
-        }
+        },
+        "region": 14
     },
     {
-        "name": "ArÃ©na Julien-Beauregard",
+        "name": "Aréna Julien-Beauregard",
         "address": "727 rue Desjardins",
         "city": "Marieville",
         "coordinates": {
@@ -1901,10 +2054,11 @@
                 -73.1498264,
                 45.4306849
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Kevin Lowe - Pierre PagÃ©",
+        "name": "Aréna Kevin Lowe - Pierre Pagé",
         "address": "80 avenue Hamford",
         "city": "Lachute",
         "coordinates": {
@@ -1913,11 +2067,12 @@
                 -74.3513876,
                 45.6544184
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "ArÃ©na Le Gardeur",
-        "address": "525 rue LaverdiÃ¨re",
+        "name": "Aréna Le Gardeur",
+        "address": "525 rue Laverdière",
         "city": "Repentigny",
         "coordinates": {
             "type": "Point",
@@ -1925,10 +2080,11 @@
                 -73.4755498,
                 45.76055
             ]
-        }
+        },
+        "region": 14
     },
     {
-        "name": "ArÃ©na L'Olympia",
+        "name": "Aréna L'Olympia",
         "address": "611 20e avenue",
         "city": "Deux-Montagnes",
         "coordinates": {
@@ -1937,22 +2093,24 @@
                 -73.91691259480274,
                 45.543824900000004
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "ArÃ©na Lower Canada College",
+        "name": "Aréna Lower Canada College",
         "address": "4099 avenue Royal",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6229761,
                 45.4705815
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Lucerne",
+        "name": "Aréna Lucerne",
         "address": "1750 rue de Neuville",
         "city": "Laval",
         "coordinates": {
@@ -1961,10 +2119,11 @@
                 -73.7185099,
                 45.6005741
             ]
-        }
+        },
+        "region": 13
     },
     {
-        "name": "ArÃ©na Marcel-Larocque",
+        "name": "Aréna Marcel-Larocque",
         "address": "370 avenue Lareau",
         "city": "Saint-Jean-sur-Richelieu",
         "coordinates": {
@@ -1973,34 +2132,37 @@
                 -73.2318263,
                 45.2939453
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Marcellin-Wilson",
+        "name": "Aréna Marcellin-Wilson",
         "address": "11301 boul. De l'Acadie",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6842383,
                 45.5359993
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Martin Lapointe",
-        "address": "183 Des Ã©rables",
-        "city": "MontrÃ©al",
+        "name": "Aréna Martin Lapointe",
+        "address": "183 Des érables",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6513223,
                 45.4457062
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Martin St-Louis",
+        "name": "Aréna Martin St-Louis",
         "address": "655 rue Sylvie",
         "city": "Laval",
         "coordinates": {
@@ -2009,24 +2171,26 @@
                 -73.8022709,
                 45.5265806
             ]
-        }
+        },
+        "region": 13
     },
     {
-        "name": "ArÃ©na Martin-Brodeur",
+        "name": "Aréna Martin-Brodeur",
         "address": "5300 boul. Robert",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6010543,
                 45.5858089
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Maurice-Richard",
+        "name": "Aréna Maurice-Richard",
         "address": "2800 rue Viau",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "type": "olympique",
         "coordinates": {
             "type": "Point",
@@ -2034,10 +2198,11 @@
                 -73.54723979809955,
                 45.5622426
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Michael-Bilodeau",
+        "name": "Aréna Michael-Bilodeau",
         "address": "201 boul. Clairevue Est",
         "city": "Saint-Bruno-de-Montarville",
         "coordinates": {
@@ -2046,10 +2211,11 @@
                 -73.3390743,
                 45.5334366
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Michel-Normandin",
+        "name": "Aréna Michel-Normandin",
         "address": "3105 boul. Rome",
         "city": "Brossard",
         "coordinates": {
@@ -2058,22 +2224,24 @@
                 -73.4561704684166,
                 45.44876845
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Michel-Normandin",
-        "address": "850 avenue Ã‰mile-Journault",
-        "city": "MontrÃ©al",
+        "name": "Aréna Michel-Normandin",
+        "address": "850 avenue Émile-Journault",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.63744570939579,
                 45.5512045
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Mike Bossy",
+        "name": "Aréna Mike Bossy",
         "address": "163 boul. Ste-Rose Est",
         "city": "Laval",
         "coordinates": {
@@ -2082,22 +2250,24 @@
                 -73.75996829243422,
                 45.62778739084999
             ]
-        }
+        },
+        "region": 13
     },
     {
-        "name": "ArÃ©na Mont-Royal",
+        "name": "Aréna Mont-Royal",
         "address": "4365 rue Cartier",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.571709,
                 45.5330953
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na municipal de Mont-Tremblant",
+        "name": "Aréna municipal de Mont-Tremblant",
         "address": "625 rue Cadieux",
         "city": "Mont-Tremblant",
         "coordinates": {
@@ -2106,10 +2276,11 @@
                 -74.581538,
                 46.125976
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "ArÃ©na municipal de Saint-Jean-sur-Richelieu",
+        "name": "Aréna municipal de Saint-Jean-sur-Richelieu",
         "address": "90 boul. Gouin",
         "city": "Saint-Jean-sur-Richelieu",
         "coordinates": {
@@ -2118,10 +2289,11 @@
                 -73.25589223959068,
                 45.30084945
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na municipal de Vaudreuil-Dorion",
+        "name": "Aréna municipal de Vaudreuil-Dorion",
         "address": "9 rue Jeannotte",
         "city": "Vaudreuil-Dorion",
         "coordinates": {
@@ -2130,10 +2302,11 @@
                 -74.0265499,
                 45.3971805
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Olympia",
+        "name": "Aréna Olympia",
         "address": "2950 rue Dumont",
         "city": "Longueuil",
         "coordinates": {
@@ -2142,46 +2315,50 @@
                 -73.4606197,
                 45.5128088
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na PÃ¨re-Marquette",
+        "name": "Aréna Père-Marquette",
         "address": "1605 rue De Bellechasse",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5957296,
                 45.5393349
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Pierre \"Pete\" Morin",
+        "name": "Aréna Pierre \"Pete\" Morin",
         "address": "1925 rue Saint-Antoine",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6816843,
                 45.439831
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Raymond-Bourque",
+        "name": "Aréna Raymond-Bourque",
         "address": "2345 boul. Thimens",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.7020766,
                 45.5059898
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na rÃ©gional de Huntingdon",
+        "name": "Aréna régional de Huntingdon",
         "address": "1567 chemin Fairview",
         "city": "Huntingdon",
         "coordinates": {
@@ -2190,34 +2367,37 @@
                 -74.17433808318684,
                 45.0801311998667
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na rÃ©gional de la RiviÃ¨re-du-Nord",
+        "name": "Aréna régional de la Rivière-du-Nord",
         "address": "750 rue Filion",
-        "city": "Saint-JÃ©rÃ´me",
+        "city": "Saint-Jérôme",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.9843767,
                 45.7885339
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "ArÃ©na RenÃ©-Masson",
+        "name": "Aréna René-Masson",
         "address": "9175 boul. Perras",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.57788754596211,
                 45.6515845
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Repentigny",
+        "name": "Aréna Repentigny",
         "address": "80 boul. Brien",
         "city": "Repentigny",
         "coordinates": {
@@ -2226,10 +2406,11 @@
                 -73.452821,
                 45.743266
             ]
-        }
+        },
+        "region": 14
     },
     {
-        "name": "ArÃ©na Richard Trottier",
+        "name": "Aréna Richard Trottier",
         "address": "3155 rue Esther",
         "city": "Laval",
         "coordinates": {
@@ -2238,22 +2419,24 @@
                 -73.7955937,
                 45.5761791
             ]
-        }
+        },
+        "region": 13
     },
     {
-        "name": "ArÃ©na Roberto-Luongo",
+        "name": "Aréna Roberto-Luongo",
         "address": "7755 rue Colbert",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5961697,
                 45.5736184
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Roch-Lasalle",
+        "name": "Aréna Roch-Lasalle",
         "address": "275 1re avenue",
         "city": "Crabtree",
         "coordinates": {
@@ -2262,46 +2445,50 @@
                 -73.4675506,
                 45.960846
             ]
-        }
+        },
+        "region": 14
     },
     {
-        "name": "ArÃ©na Rodrigue-Gilbert",
+        "name": "Aréna Rodrigue-Gilbert",
         "address": "1515 boul. Du Tricentenaire",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5000362,
                 45.6512983
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Rolland",
+        "name": "Aréna Rolland",
         "address": "12000 boul. Rolland",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6192497,
                 45.6150034
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Ronald Caron (CEGEP Saint-Laurent)",
+        "name": "Aréna Ronald Caron (CEGEP Saint-Laurent)",
         "address": "625 avenue Sainte-Croix",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6727102708738,
                 45.51185837184466
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Saint-Canut",
+        "name": "Aréna Saint-Canut",
         "address": "15005 chemin Dupuis",
         "city": "Mirabel",
         "coordinates": {
@@ -2310,34 +2497,37 @@
                 -74.0644429,
                 45.7098696
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "ArÃ©na Saint-Charles",
+        "name": "Aréna Saint-Charles",
         "address": "1055 rue d'Hibernia",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5636344,
                 45.4796566
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Saint-Donat",
+        "name": "Aréna Saint-Donat",
         "address": "6750 rue de Marseille",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.53833538888888,
                 45.5827282
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Saint-FranÃ§ois",
+        "name": "Aréna Saint-François",
         "address": "9449 rue de Tilly",
         "city": "Laval",
         "coordinates": {
@@ -2346,34 +2536,37 @@
                 -73.5775267,
                 45.6741599
             ]
-        }
+        },
+        "region": 13
     },
     {
-        "name": "ArÃ©na Saint-Louis",
+        "name": "Aréna Saint-Louis",
         "address": "5633 rue Saint-Dominique",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.60099536412007,
                 45.52789558539264
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Saint-Michel",
+        "name": "Aréna Saint-Michel",
         "address": "3440 rue Jarry Est",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.60740775,
                 45.566019383333334
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Salaberry",
+        "name": "Aréna Salaberry",
         "address": "158 rue Nicholson",
         "city": "Salaberry-de-Valleyfield",
         "coordinates": {
@@ -2382,22 +2575,24 @@
                 -74.1284299,
                 45.2510909
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ArÃ©na Samuel-Moskovitch",
+        "name": "Aréna Samuel-Moskovitch",
         "address": "6985 chemin Mackle",
-        "city": "CÃ´te-Saint-Luc",
+        "city": "Côte-Saint-Luc",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.67006977851406,
                 45.4732042
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Ville Mont-Royal",
+        "name": "Aréna Ville Mont-Royal",
         "address": "1050 chemin Dunkirk",
         "city": "Mont-Royal",
         "coordinates": {
@@ -2406,22 +2601,24 @@
                 -73.63989119823175,
                 45.514949099999995
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na YMCA",
+        "name": "Aréna YMCA",
         "address": "4567 rue Hochelaga",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5449951,
                 45.557821
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na Yvon-Chartrand",
+        "name": "Aréna Yvon-Chartrand",
         "address": "4100 boul. De la Concorde Est",
         "city": "Laval",
         "coordinates": {
@@ -2430,43 +2627,47 @@
                 -73.6752735,
                 45.5831223
             ]
-        }
+        },
+        "region": 13
     },
     {
-        "name": "Atrium - 1000 de La GauchetiÃ¨re",
-        "address": "1000 rue de La GauchetiÃ¨re",
-        "city": "MontrÃ©al",
+        "name": "Atrium - 1000 de La Gauchetière",
+        "address": "1000 rue de La Gauchetière",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5665041,
                 45.4983565
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Auditorium de Verdun",
         "address": "4110 boul. LaSalle",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5631167,
                 45.46224058181818
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre Bell",
-        "address": "1909 avenue Des Canadiens-de-MontrÃ©al",
-        "city": "MontrÃ©al",
+        "address": "1909 avenue Des Canadiens-de-Montréal",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5692218,
                 45.4971367
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre civique de Salaberry-de-Valleyfield",
@@ -2478,7 +2679,8 @@
                 -74.1427968,
                 45.2673022
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre civique Dollard-des-Ormeaux",
@@ -2490,19 +2692,21 @@
                 -73.80883787320532,
                 45.48453055
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "Centre Communautaire intergÃ©nÃ©rationnel d'outremont",
+        "name": "Centre Communautaire intergénérationnel d'outremont",
         "address": "999 ave. McEachran",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6195238137524,
                 45.51997325
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre de la culture et du sport de Sainte-Julie",
@@ -2514,7 +2718,8 @@
                 -73.3288117,
                 45.5824579
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre des glaces Gilles-Chabot",
@@ -2526,7 +2731,8 @@
                 -73.43438940038219,
                 45.59458345
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre des loisirs de Westmount",
@@ -2538,11 +2744,12 @@
                 -73.595768,
                 45.4790415
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre d'excellence Sports Rousseau",
-        "address": "3600 boul. De la Grande-AllÃ©e",
+        "address": "3600 boul. De la Grande-Allée",
         "city": "Boisbriand",
         "coordinates": {
             "type": "Point",
@@ -2550,12 +2757,13 @@
                 -73.8595553,
                 45.6311762
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "Centre multisport de ChÃ¢teauguay",
+        "name": "Centre multisport de Châteauguay",
         "address": "255 Boulevard Brisebois",
-        "city": "ChÃ¢teauguay",
+        "city": "Châteauguay",
         "coordinates": {
             "type": "Point",
             "coordinates": [
@@ -2563,10 +2771,11 @@
                 45.34306735108736
             ]
         },
-        "type":"olympique"
+        "type": "olympique",
+        "region": 16
     },
     {
-        "name": "Centre rÃ©crÃ©atif Aussant",
+        "name": "Centre récréatif Aussant",
         "address": "105 rue Saint-Joseph",
         "city": "Saint-Joseph-de-Sorel",
         "coordinates": {
@@ -2575,10 +2784,11 @@
                 -73.1276323,
                 46.0450698
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "Centre rÃ©crÃ©atif de Beaconsfield",
+        "name": "Centre récréatif de Beaconsfield",
         "address": "1974 City Lane",
         "city": "Beaconsfield",
         "coordinates": {
@@ -2587,22 +2797,24 @@
                 -73.8659914,
                 45.4255876
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "Centre rÃ©crÃ©atif Ã‰douard-Rivet (arÃ©na Ralph-Buchanan)",
+        "name": "Centre récréatif Édouard-Rivet (aréna Ralph-Buchanan)",
         "address": "11111 rue Notre-Dame Est",
-        "city": "MontrÃ©al-Est",
+        "city": "Montréal-Est",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.5008964,
                 45.6287669
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "Centre rÃ©crÃ©atif Marcel-Bonin",
+        "name": "Centre récréatif Marcel-Bonin",
         "address": "265 rue Lajoie Sud",
         "city": "Joliette",
         "coordinates": {
@@ -2611,11 +2823,12 @@
                 -73.4371014,
                 46.0210961
             ]
-        }
+        },
+        "region": 14
     },
     {
-        "name": "Centre rÃ©crÃ©atif Saint-David",
-        "address": "25 rue ThÃ©roux",
+        "name": "Centre récréatif Saint-David",
+        "address": "25 rue Théroux",
         "city": "Saint-David",
         "coordinates": {
             "type": "Point",
@@ -2623,7 +2836,8 @@
                 -72.8588408,
                 45.9556996
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Ben Leduc",
@@ -2635,10 +2849,11 @@
                 -75.4504086,
                 46.7011025
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "Centre sportif Damien-HÃ©tu",
+        "name": "Centre sportif Damien-Hétu",
         "address": "40 rue Brissette",
         "city": "Sainte-Agathe-des-Monts",
         "coordinates": {
@@ -2647,7 +2862,8 @@
                 -74.277298,
                 46.0510015
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif de Delson",
@@ -2659,7 +2875,8 @@
                 -73.547235,
                 45.373306
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif de La Prairie",
@@ -2671,7 +2888,8 @@
                 -73.4953164,
                 45.4148613
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif de Lorraine",
@@ -2683,7 +2901,8 @@
                 -73.7824778,
                 45.6654496
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif de Mercier",
@@ -2695,19 +2914,21 @@
                 -73.746313,
                 45.313579
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif de Saint-Antoine",
         "address": "600 35e avenue",
-        "city": "Saint-JÃ©rÃ´me",
+        "city": "Saint-Jérôme",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.980383,
                 45.774155
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif de Ste-Anne-des-Plaines",
@@ -2719,19 +2940,21 @@
                 -73.825763,
                 45.763696
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif Dollard St-Laurent",
         "address": "707 75e avenue",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6289742,
                 45.4226953
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre sportif et culturel de Brandon",
@@ -2743,23 +2966,25 @@
                 -73.383417,
                 46.2926304
             ]
-        }
+        },
+        "region": 14
     },
     {
-        "name": "Centre sportif et culturel de la VallÃ©e de la Rouge",
+        "name": "Centre sportif et culturel de la Vallée de la Rouge",
         "address": "1550 chemin du Rapide",
-        "city": "RiviÃ¨re-Rouge",
+        "city": "Rivière-Rouge",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -74.863307340451,
                 46.4004769
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "Centre sportif et culturel de Saint-ThimothÃ©e",
-        "address": "4949 boul. HÃ©bert",
+        "name": "Centre sportif et culturel de Saint-Thimothée",
+        "address": "4949 boul. Hébert",
         "city": "Salaberry-de-Valleyfield",
         "coordinates": {
             "type": "Point",
@@ -2767,22 +2992,24 @@
                 -74.05269473934426,
                 45.28739859672131
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "Centre sportif et culturel du CollÃ¨ge Saint-Jean-Vianney",
+        "name": "Centre sportif et culturel du Collège Saint-Jean-Vianney",
         "address": "12640 boul. Gouin Est",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.52226468314812,
                 45.69285655715775
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "Centre sportif GaÃ©tan-Boucher",
+        "name": "Centre sportif Gaétan-Boucher",
         "address": "3850 rue Edgar",
         "city": "Longueuil",
         "coordinates": {
@@ -2791,7 +3018,8 @@
                 -73.4599231,
                 45.4935817
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Jacques-Lesage",
@@ -2803,10 +3031,11 @@
                 -75.5000625,
                 46.5599305
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "Centre sportif rÃ©gional de Contrecoeur",
+        "name": "Centre sportif régional de Contrecoeur",
         "address": "1555 rue des Saules",
         "city": "Contrecoeur",
         "coordinates": {
@@ -2815,10 +3044,11 @@
                 -73.2258299,
                 45.8554943
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "Centre sportif rÃ©gional des Copains",
+        "name": "Centre sportif régional des Copains",
         "address": "4 rue des Copains",
         "city": "Sainte-Martine",
         "coordinates": {
@@ -2827,22 +3057,24 @@
                 -73.7988974,
                 45.2492844
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "Centre sportif rÃ©gional Les Jardins du QuÃ©bec",
+        "name": "Centre sportif régional Les Jardins du Québec",
         "address": "170 rue St-Viateur",
-        "city": "Saint-RÃ©mi",
+        "city": "Saint-Rémi",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.614282,
                 45.255954
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "Centre sportif rÃ©gional Louis-Cyr",
+        "name": "Centre sportif régional Louis-Cyr",
         "address": "50 rue de l'Aqueduc",
         "city": "Napierville",
         "coordinates": {
@@ -2851,7 +3083,8 @@
                 -73.4014277,
                 45.1931457
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Robert Lebel",
@@ -2863,7 +3096,8 @@
                 -73.26789557957242,
                 45.4373344
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Rosanne-Laflamme",
@@ -2875,7 +3109,8 @@
                 -73.3940204,
                 45.4891389
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Saint-Lin-Laurentides",
@@ -2887,7 +3122,8 @@
                 -73.757581,
                 45.842725
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Centre sportif Soulanges",
@@ -2899,7 +3135,8 @@
                 -74.3089073,
                 45.3010974
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Westwood arena",
@@ -2911,10 +3148,11 @@
                 -73.7641001,
                 45.4560223
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ColisÃ©e Cardin",
+        "name": "Colisée Cardin",
         "address": "200 rue Victoria",
         "city": "Sorel-Tracy",
         "coordinates": {
@@ -2923,10 +3161,11 @@
                 -73.1035289,
                 46.0402589
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ColisÃ©e de Laval",
+        "name": "Colisée de Laval",
         "address": "1110 avenue Desnoyers",
         "city": "Laval",
         "coordinates": {
@@ -2935,10 +3174,11 @@
                 -73.6499978,
                 45.6140954
             ]
-        }
+        },
+        "region": 13
     },
     {
-        "name": "ColisÃ©e Isabelle-Brasseur",
+        "name": "Colisée Isabelle-Brasseur",
         "address": "965 rue Choquette",
         "city": "Saint-Jean-sur-Richelieu",
         "coordinates": {
@@ -2947,10 +3187,11 @@
                 -73.2784541,
                 45.3361961
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "ColisÃ©e Jean-BÃ©liveau",
+        "name": "Colisée Jean-Béliveau",
         "address": "1755 boul. Jacques-Cartier Est",
         "city": "Longueuil",
         "coordinates": {
@@ -2959,7 +3200,8 @@
                 -73.4578606,
                 45.5355579
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe du Val d'Espoir",
@@ -2971,19 +3213,21 @@
                 -73.93166107416526,
                 45.71000004570048
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Complexe Hockey Bonaventure",
-        "address": "6605 chemin CÃ´te-de-Liesse",
-        "city": "MontrÃ©al",
+        "address": "6605 chemin Côte-de-Liesse",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.69369707706203,
                 45.4845438646849
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Complexe JC Perreault",
@@ -2995,7 +3239,8 @@
                 -73.6062123,
                 45.8267539
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Complexe Jean-Laurin",
@@ -3007,19 +3252,21 @@
                 -73.983985,
                 45.63488
             ]
-        }
+        },
+        "region": 15
     },
     {
-        "name": "Complexe rÃ©crÃ©atif Gadbois",
-        "address": "5485 chemin de la CÃ´te Saint-Paul",
-        "city": "MontrÃ©al",
+        "name": "Complexe récréatif Gadbois",
+        "address": "5485 chemin de la Côte Saint-Paul",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.593996,
                 45.4671852
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Complexe sportif Absolu",
@@ -3031,7 +3278,8 @@
                 -73.25265371869696,
                 45.2956772
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif Bell",
@@ -3043,11 +3291,12 @@
                 -73.4466314,
                 45.4542632
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif Chambly",
-        "address": "3000 boul. FrÃ©chette",
+        "address": "3000 boul. Fréchette",
         "city": "Chambly",
         "coordinates": {
             "type": "Point",
@@ -3055,7 +3304,8 @@
                 -73.2897923,
                 45.4391142
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif de Candiac",
@@ -3067,7 +3317,8 @@
                 -73.532745,
                 45.376546
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif Guimond",
@@ -3079,11 +3330,12 @@
                 -73.7841046,
                 45.5623707
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Complexe sportif Longueuil",
-        "address": "550 boul. CurÃ©-Poirier Ouest",
+        "address": "550 boul. Curé-Poirier Ouest",
         "city": "Longueuil",
         "coordinates": {
             "type": "Point",
@@ -3091,19 +3343,21 @@
                 -73.4926351,
                 45.5125329
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "Complexe sportif Saint-RaphaÃ«l",
+        "name": "Complexe sportif Saint-Raphaël",
         "address": "750 boul. Jacques-Bizard",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.8762118,
                 45.5029885
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Complexe sportif SportScene",
@@ -3115,7 +3369,8 @@
                 -73.1832945,
                 45.5681102
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif St-Constant",
@@ -3127,7 +3382,8 @@
                 -73.5991173,
                 45.3803084
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif St-Lazare",
@@ -3139,11 +3395,12 @@
                 -74.1400968,
                 45.3967723
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe Walter Buswell",
-        "address": "220 boul. Arthur-SauvÃ©",
+        "address": "220 boul. Arthur-Sauvé",
         "city": "Saint-Eustache",
         "coordinates": {
             "type": "Point",
@@ -3152,7 +3409,8 @@
                 45.5611559
             ]
         },
-        "edited":true
+        "edited": true,
+        "region": 15
     },
     {
         "name": "Evolution Ice",
@@ -3164,7 +3422,8 @@
                 -73.78532835057472,
                 45.48335020632184
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Excellence sur glace",
@@ -3176,11 +3435,12 @@
                 -73.8397822,
                 45.4519758
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Hockey Etcetera",
-        "address": "5920 chemin de la CÃ´te-de-Liesse",
+        "address": "5920 chemin de la Côte-de-Liesse",
         "city": "Mont-Royal",
         "coordinates": {
             "type": "Point",
@@ -3188,7 +3448,8 @@
                 -73.6570921,
                 45.5162501
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Kahnawake sports complex",
@@ -3213,10 +3474,11 @@
                 -73.54749857692308,
                 45.400076661538456
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "Les complexes sportifs Terrebonne / CitÃ© du Sport",
+        "name": "Les complexes sportifs Terrebonne / Cité du Sport",
         "address": "2485 boul. des Entreprises",
         "city": "Terrebonne",
         "coordinates": {
@@ -3225,7 +3487,8 @@
                 -73.70565881497137,
                 45.72174378708735
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Les complexes sportifs Terrebonne / Forum",
@@ -3237,7 +3500,8 @@
                 -73.725798,
                 45.764788
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Les complexes sportifs Terrebonne / Multiglace",
@@ -3249,7 +3513,8 @@
                 -73.622133,
                 45.710006
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Patinoire Deux-Montagnes",
@@ -3261,11 +3526,12 @@
                 -73.920616,
                 45.541799
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Place Bell",
-        "address": "1950 rue Claude-GagnÃ©",
+        "address": "1950 rue Claude-Gagné",
         "city": "Laval",
         "type": "olympique",
         "coordinates": {
@@ -3275,10 +3541,11 @@
                 45.5563529
             ]
         },
-        "opendata":false
+        "opendata": false,
+        "region": 13
     },
     {
-        "name": "Sportplex de l'Ã‰nergie",
+        "name": "Sportplex de l'Énergie",
         "address": "150 rue Jean-Coutu",
         "city": "Varennes",
         "coordinates": {
@@ -3287,10 +3554,11 @@
                 -73.3832788,
                 45.6311881
             ]
-        }
+        },
+        "region": 16
     },
     {
-        "name": "Sportplex de l'Ã‰nergie",
+        "name": "Sportplex de l'Énergie",
         "address": "150 rue Jean-Coutu",
         "city": "Varennes",
         "coordinates": {
@@ -3299,67 +3567,73 @@
                 -73.3832788,
                 45.6311881
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Sportplexe Pierrefonds",
         "address": "14700 boul. de Pierrefonds",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.8574695,
                 45.4857293
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Sportplexe Pierrefonds",
         "address": "14700 boul. de Pierrefonds",
-        "city": "MontrÃ©al",
+        "city": "Montréal",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.8574695,
                 45.4857293
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "The Legion Rink",
         "address": "220 ave Bedbrook",
-        "city": "MontrÃ©al-Ouest",
+        "city": "Montréal-Ouest",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6523209,
                 45.4523122
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "The Legion Rink",
         "address": "220 ave Bedbrook",
-        "city": "MontrÃ©al-Ouest",
+        "city": "Montréal-Ouest",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -73.6523209,
                 45.4523122
             ]
-        }
+        },
+        "region": 6
     },
     {
-        "name": "ArÃ©na StÃ©phane-Richer",
+        "name": "Aréna Stéphane-Richer",
         "address": "530 rue Charles-Auguste-Montreuil",
-        "city": "Saint-AndrÃ©-Avellin",
+        "city": "Saint-André-Avellin",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -75.04640033709707,
                 45.72563595
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Centre Meredith",
@@ -3371,7 +3645,8 @@
                 -75.7929962784732,
                 45.50712695
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Centre Meredith",
@@ -3383,7 +3658,8 @@
                 -75.7929962784732,
                 45.50712695
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Complexe sportif du Haut-Pontiac",
@@ -3395,19 +3671,21 @@
                 -77.07086294200184,
                 45.910179150000005
             ]
-        }
+        },
+        "region": 7
     },
     {
-        "name": "Complexe sportif La PÃªche",
-        "address": "20 Ch. RaphaÃ«l",
-        "city": "La PÃªche",
+        "name": "Complexe sportif La Pêche",
+        "address": "20 Ch. Raphaël",
+        "city": "La Pêche",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -76.0334505,
                 45.6448505
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Complexe sportif Robert-Hartley",
@@ -3426,10 +3704,11 @@
                 -75.74517000617284,
                 45.460964000000004
             ]
-        }
+        },
+        "region": 7
     },
     {
-        "name": "MunicipalitÃ© de Papineauville",
+        "name": "Municipalité de Papineauville",
         "address": "188 rue Jeanne-D'Arc",
         "city": "Papineauville",
         "coordinates": {
@@ -3438,7 +3717,8 @@
                 -75.0184233,
                 45.6193509
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Sportium de Val-des-Monts",
@@ -3450,11 +3730,12 @@
                 -75.61765133973164,
                 45.59848657107893
             ]
-        }
+        },
+        "region": 7
     },
     {
-        "name": "Ville de Gatineau - Parcs et infrastructures rÃ©crÃ©atives",
-        "address": "144 Boul. de l'hÃ´pital",
+        "name": "Ville de Gatineau - Parcs et infrastructures récréatives",
+        "address": "144 Boul. de l'hôpital",
         "city": "Gatineau",
         "coordinates": {
             "type": "Point",
@@ -3462,10 +3743,11 @@
                 -75.68716759398535,
                 45.481816499999994
             ]
-        }
+        },
+        "region": 7
     },
     {
-        "name": "Ville de Gatineau - Section des arÃ©nas",
+        "name": "Ville de Gatineau - Section des arénas",
         "address": "850 Boul. La Gappe",
         "city": "Gatineau",
         "coordinates": {
@@ -3474,10 +3756,11 @@
                 -75.68204263621817,
                 45.48308625
             ]
-        }
+        },
+        "region": 7
     },
     {
-        "name": "Ville de Gatineau - Section des arÃ©nas",
+        "name": "Ville de Gatineau - Section des arénas",
         "address": "100 Edmonton",
         "city": "Gatineau",
         "coordinates": {
@@ -3486,10 +3769,11 @@
                 -75.73353928898175,
                 45.4520572
             ]
-        }
+        },
+        "region": 7
     },
     {
-        "name": "Ville de Gatineau - Section des arÃ©nas",
+        "name": "Ville de Gatineau - Section des arénas",
         "address": "850 Boul. La Gappe",
         "city": "Gatineau",
         "coordinates": {
@@ -3498,7 +3782,8 @@
                 -75.68204263621817,
                 45.48308625
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Ville de Maniwaki, Service des loisirs et de la culture",
@@ -3510,7 +3795,8 @@
                 -75.9818114,
                 46.3743248
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Ville de Thurso",
@@ -3522,10 +3808,11 @@
                 -75.2435886,
                 45.5993104
             ]
-        }
+        },
+        "region": 7
     },
     {
-        "name": "Complexe Brancahud-BriÃ¨re",
+        "name": "Complexe Brancahud-Brière",
         "address": "499 Boul. Labrosse",
         "city": "Gatineau",
         "coordinates": {
@@ -3534,35 +3821,38 @@
                 -75.6446323,
                 45.4975545
             ]
-        }
+        },
+        "region": 7
     },
     {
-        "name": "ArÃ©na  RÃ©jean-Lemelin",
+        "name": "Aréna  Réjean-Lemelin",
         "address": "1300 rue Pompadour",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2688608,
                 46.8876125
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na 2 glaces Val-BÃ©lair",
+        "name": "Aréna 2 glaces Val-Bélair",
         "address": "1515 rue Innovation",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.4181515,
                 46.8595157
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na 76",
-        "address": "920 St-GÃ©rard",
+        "name": "Aréna 76",
+        "address": "920 St-Gérard",
         "city": "Disraeli",
         "coordinates": {
             "type": "Point",
@@ -3570,36 +3860,39 @@
                 -71.3535032,
                 45.9077777
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na AndrÃ©-Lacroix",
+        "name": "Aréna André-Lacroix",
         "address": "7300 boul. de la Rive-Sud",
-        "city": "LÃ©vis",
+        "city": "Lévis",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.1524224,
                 46.8138842
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na Bardy",
+        "name": "Aréna Bardy",
         "address": "2280 Monseigneur-Gosselin",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2226241,
                 46.843468
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na Bruno-Verret",
+        "name": "Aréna Bruno-Verret",
         "address": "981 Route Lagueux",
-        "city": "LÃ©vis",
+        "city": "Lévis",
         "type": "olympique",
         "coordinates": {
             "type": "Point",
@@ -3607,22 +3900,24 @@
                 -71.3129913,
                 46.6521328
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na BSR",
-        "address": "585 rue ArÃ©na",
-        "city": "LÃ©vis",
+        "name": "Aréna BSR",
+        "address": "585 rue Aréna",
+        "city": "Lévis",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2940632,
                 46.7087772
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na ClÃ©ment-Boulanger",
+        "name": "Aréna Clément-Boulanger",
         "address": "28 150 Rue Hodson",
         "city": "Saint-Gabriel-de-Valcartier",
         "coordinates": {
@@ -3631,10 +3926,11 @@
                 -71.4999935,
                 46.8948727
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na ClÃ©ment-Boulanger",
+        "name": "Aréna Clément-Boulanger",
         "address": "150 Rue Hodson",
         "city": "Saint-Gabriel-de-Valcartier",
         "coordinates": {
@@ -3643,22 +3939,24 @@
                 -71.4999935,
                 46.8948727
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na CÃ´te-de-BeauprÃ©",
+        "name": "Aréna Côte-de-Beaupré",
         "address": "10991 rue des Montagnards",
-        "city": "BeauprÃ©",
+        "city": "Beaupré",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -70.9007241,
                 47.041386
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na de Beauceville",
+        "name": "Aréna de Beauceville",
         "address": "116 125e Rue",
         "city": "Beauceville",
         "coordinates": {
@@ -3667,10 +3965,11 @@
                 -70.7707778,
                 46.2120057
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na de Black Lake",
+        "name": "Aréna de Black Lake",
         "address": "4030 rue Lord",
         "city": "Thetford Mines",
         "coordinates": {
@@ -3679,10 +3978,11 @@
                 -71.3650661,
                 46.0481023
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na de Clermont",
+        "name": "Aréna de Clermont",
         "address": "31 rue Larouche",
         "city": "Clermont",
         "coordinates": {
@@ -3691,22 +3991,24 @@
                 -70.2257174,
                 47.6879751
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na de LÃ©vis",
+        "name": "Aréna de Lévis",
         "address": "29 rue Vincent-Chagnon",
-        "city": "LÃ©vis",
+        "city": "Lévis",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.1759197,
                 46.8024371
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na de Montmagny",
+        "name": "Aréna de Montmagny",
         "address": "21 avenue Sainte-Brigitte Nord",
         "city": "Montmagny",
         "coordinates": {
@@ -3715,22 +4017,24 @@
                 -70.5632129831863,
                 46.983875499999996
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na de Saint-CÃ´me",
+        "name": "Aréna de Saint-Côme",
         "address": "1517 19e rue",
-        "city": "Saint-CÃ´me-LiniÃ¨re",
+        "city": "Saint-Côme-Linière",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -70.5194168,
                 46.0579216
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na de Saint-Pamphile",
+        "name": "Aréna de Saint-Pamphile",
         "address": "245 rue St-Pierre",
         "city": "Saint-Pamphile",
         "coordinates": {
@@ -3739,11 +4043,12 @@
                 -69.7885769,
                 46.9604998
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na de Saint-Ubalde",
-        "address": "400 rue de l'ArÃ©na",
+        "name": "Aréna de Saint-Ubalde",
+        "address": "400 rue de l'Aréna",
         "city": "Saint-Ubalde",
         "coordinates": {
             "type": "Point",
@@ -3751,10 +4056,11 @@
                 -72.2663216,
                 46.7557004
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na de St-Charles-de-Bellechasse",
+        "name": "Aréna de St-Charles-de-Bellechasse",
         "address": "26 av. Commerciale",
         "city": "Saint-Charles-de-Bellechasse",
         "coordinates": {
@@ -3763,35 +4069,38 @@
                 -70.944479,
                 46.7742482
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na Duberger",
+        "name": "Aréna Duberger",
         "address": "3050 boul. Central ",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2946775,
                 46.814978
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na GaÃ©tan-Duchesne",
+        "name": "Aréna Gaétan-Duchesne",
         "address": "2650 d'Alembert",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.32489437872198,
                 46.809427
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na J.-Ã‰.-MÃ©tivier",
-        "address": "80 Route Saint-GÃ©rard",
+        "name": "Aréna J.-É.-Métivier",
+        "address": "80 Route Saint-Gérard",
         "city": "Saint-Damien-de-Buckland",
         "coordinates": {
             "type": "Point",
@@ -3799,22 +4108,24 @@
                 -70.66935666727545,
                 46.6296847
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na Jacques-CÃ´tÃ©",
+        "name": "Aréna Jacques-Côté",
         "address": "2020 rue Narcisse-Roy",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2453161,
                 46.7751448
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na Lac-Etchemin",
+        "name": "Aréna Lac-Etchemin",
         "address": "208 2e Avenue",
         "city": "Lac-Etchemin",
         "coordinates": {
@@ -3823,22 +4134,24 @@
                 -70.5044147,
                 46.3963804
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na les Galeries de la Capitale",
+        "name": "Aréna les Galeries de la Capitale",
         "address": "5401 boulevard des Galeries",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.299996,
                 46.8288373
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na Luc et Marie-Claude de Baie-Saint-Paul",
+        "name": "Aréna Luc et Marie-Claude de Baie-Saint-Paul",
         "address": "11 rue Forget",
         "city": "Baie-Saint-Paul",
         "coordinates": {
@@ -3847,22 +4160,24 @@
                 -70.5079719,
                 47.4409338
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na Marcel-Dutil",
+        "name": "Aréna Marcel-Dutil",
         "address": "120 1re Avenue Sud",
-        "city": "Saint-GÃ©dÃ©on-de-Beauce",
+        "city": "Saint-Gédéon-de-Beauce",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -70.64274691806578,
                 45.852980171950676
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na municipal de St-Joseph-de-Beauce",
+        "name": "Aréna municipal de St-Joseph-de-Beauce",
         "address": "713 av. Robert-Cliche",
         "city": "Saint-Joseph-de-Beauce",
         "coordinates": {
@@ -3871,12 +4186,13 @@
                 -70.88083090773904,
                 46.3157335
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na Patrick Poulin",
-        "address": "22 av. Chanoine-CÃ´tÃ©",
-        "city": "QuÃ©bec",
+        "name": "Aréna Patrick Poulin",
+        "address": "22 av. Chanoine-Côté",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
@@ -3884,11 +4200,11 @@
                 46.8150557
             ]
         },
-        "edited":true
-
+        "edited": true,
+        "region": 3
     },
     {
-        "name": "ArÃ©na Saint-Ã‰douard-de-Frampton",
+        "name": "Aréna Saint-Édouard-de-Frampton",
         "address": "107-A  rue Sainte-Anne",
         "city": "Frampton",
         "coordinates": {
@@ -3897,22 +4213,24 @@
                 -70.8075639,
                 46.4632434
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na Saint-HonorÃ©-de-Shenley",
+        "name": "Aréna Saint-Honoré-de-Shenley",
         "address": "453 rue Ennis",
-        "city": "Saint-HonorÃ©-de-Shenley",
+        "city": "Saint-Honoré-de-Shenley",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -70.8257092,
                 45.9639515
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na Saint-Prosper",
+        "name": "Aréna Saint-Prosper",
         "address": "2585 30e rue",
         "city": "Saint-Prosper",
         "coordinates": {
@@ -3921,11 +4239,12 @@
                 -70.478177,
                 46.213575
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na Saint-Raymond",
-        "address": "160 Place de l'Ã‰glise",
+        "name": "Aréna Saint-Raymond",
+        "address": "160 Place de l'Église",
         "city": "Saint-Raymond",
         "coordinates": {
             "type": "Point",
@@ -3933,79 +4252,86 @@
                 -71.8347071,
                 46.8919696
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na Saint-Romuald",
+        "name": "Aréna Saint-Romuald",
         "address": "525 4e avenue",
-        "city": "LÃ©vis",
+        "city": "Lévis",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2341314,
                 46.7492561
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na St-Ã‰phrem",
+        "name": "Aréna St-Éphrem",
         "address": "80 route 271 Sud",
-        "city": "Saint-Ã‰phrem-de-Beauce",
+        "city": "Saint-Éphrem-de-Beauce",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -70.94583091845936,
                 46.06467026691617
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Arpidrome",
         "address": "750 de la Sorbonne",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.25466694733508,
                 46.864005296201476
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "AuquarÃ©na de Charny",
-        "address": "8001 av. des Ã‰glises",
-        "city": "LÃ©vis",
+        "name": "Auquaréna de Charny",
+        "address": "8001 av. des Églises",
+        "city": "Lévis",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2665138,
                 46.7222937
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Bombardier",
         "address": "600 9e Rue Boulevard Desrochers",
-        "city": "La PocatiÃ¨re",
+        "city": "La Pocatière",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -70.0323903,
                 47.3694832
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre Bruno-Berret",
         "address": "3030 route Lagueux",
-        "city": "LÃ©vis",
+        "city": "Lévis",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.3811369,
                 46.7009839
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Caztel",
@@ -4017,19 +4343,21 @@
                 -71.0308737,
                 46.4516031
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre communautaire Michel Labadie",
         "address": "3705 avenue Chauveau",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.34658383097764,
                 46.832500800000005
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Centre des loisirs Desjardins d'East-Broughton",
@@ -4041,7 +4369,8 @@
                 -71.07517172442485,
                 46.21494663492514
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Mario-Gosselin",
@@ -4053,10 +4382,11 @@
                 -71.3064494,
                 46.097516
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na St-Isidore",
+        "name": "Aréna St-Isidore",
         "address": "130 route Coulombe",
         "city": "Saint-Isidore",
         "coordinates": {
@@ -4065,23 +4395,25 @@
                 -71.08360296737392,
                 46.5854195367598
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "Centre rÃ©crÃ©atif Chantal-Petitclerc",
+        "name": "Centre récréatif Chantal-Petitclerc",
         "address": "1650 boul. Dussault",
-        "city": "Saint-Marc-des-CarriÃ¨res",
+        "city": "Saint-Marc-des-Carrières",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.0620165,
                 46.6860298
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "Centre rÃ©crÃ©atif de Donnacona",
-        "address": "300 de l'Ã‰glise",
+        "name": "Centre récréatif de Donnacona",
+        "address": "300 de l'Église",
         "city": "Donnacona",
         "coordinates": {
             "type": "Point",
@@ -4089,10 +4421,11 @@
                 -71.730651,
                 46.6796198
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "Centre rÃ©crÃ©atif de Saint-Henri Inc.",
+        "name": "Centre récréatif de Saint-Henri Inc.",
         "address": "120 rue Belleau",
         "city": "Saint-Henri",
         "coordinates": {
@@ -4101,11 +4434,12 @@
                 -71.06518395398817,
                 46.69354265
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "Centre rÃ©crÃ©atif de St-Gilles",
-        "address": "1530 rue de l'ArÃ©na",
+        "name": "Centre récréatif de St-Gilles",
+        "address": "1530 rue de l'Aréna",
         "city": "Saint-Gilles",
         "coordinates": {
             "type": "Point",
@@ -4113,11 +4447,12 @@
                 -71.3649093,
                 46.5063284
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "Centre RÃ©crÃ©atif JoÃ©-Juneau",
-        "address": "51 rue du CollÃ¨ge",
+        "name": "Centre Récréatif Joé-Juneau",
+        "address": "51 rue du Collège",
         "city": "Pont-Rouge",
         "coordinates": {
             "type": "Point",
@@ -4125,7 +4460,8 @@
                 -71.69631308992527,
                 46.751521249999996
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Centre Rousseau",
@@ -4137,7 +4473,8 @@
                 -70.26112020000001,
                 47.21033815
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Sportif",
@@ -4149,7 +4486,8 @@
                 -71.7430584,
                 46.6201733
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre sportif Bellechasse-Dorchester",
@@ -4161,10 +4499,11 @@
                 -70.96321292102655,
                 46.62961986689219
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "Centre Sportif Claude-BÃ©dard",
+        "name": "Centre Sportif Claude-Bédard",
         "address": "146 rue Bisson",
         "city": "Sainte-Justine",
         "coordinates": {
@@ -4173,7 +4512,8 @@
                 -70.35162110929716,
                 46.41412705
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre sportif Goerges-Henri-Vermette",
@@ -4185,7 +4525,8 @@
                 -71.452607,
                 46.5751318
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre sportif La Guadeloupe",
@@ -4197,7 +4538,8 @@
                 -70.9433788,
                 45.9591819
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Sportif Lacroix Dutil",
@@ -4209,31 +4551,34 @@
                 -70.68096757291667,
                 46.12361455
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "Centre sportif Marcel-BÃ©dard",
+        "name": "Centre sportif Marcel-Bédard",
         "address": "655 boulevard des Chutes",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.1897559,
                 46.8575193
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Centre sportif Marc-Simonneau",
         "address": "3500 rue Cambronne",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.21266736329248,
                 46.86126190572654
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Centre sportif Odilon-Grenier",
@@ -4245,7 +4590,8 @@
                 -71.3701369,
                 45.9722402
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre sportif Saint-Pascal",
@@ -4257,47 +4603,51 @@
                 -69.8037762,
                 47.5320402
             ]
-        }
+        },
+        "region": 1
     },
     {
-        "name": "ColisÃ©e de Loretteville",
-        "address": "86 boul. des Ã‰tudiants",
-        "city": "QuÃ©bec",
+        "name": "Colisée de Loretteville",
+        "address": "86 boul. des Étudiants",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.3610425,
                 46.8559912
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ColisÃ©e Pepsi",
+        "name": "Colisée Pepsi",
         "address": "250 boul. Wilfrid Hamel",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2456683,
                 46.8265395
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "Complexe 2 glaces Honco de LÃ©vis",
+        "name": "Complexe 2 glaces Honco de Lévis",
         "address": "275 avenue Taniata",
-        "city": "LÃ©vis",
+        "city": "Lévis",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2032187,
                 46.7259417
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Complexe sportif & culturel de Ste-Claire",
-        "address": "160 rue de l'Ã‰glise",
+        "address": "160 rue de l'Église",
         "city": "Sainte-Claire",
         "coordinates": {
             "type": "Point",
@@ -4305,13 +4655,14 @@
                 -70.8590447909091,
                 46.60641154545455
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Complexe sportif de Wendake",
         "address": "100 rue Grand Chef Thonnakona",
         "city": "Wendake",
-        "region":3,
+        "region": 3,
         "coordinates": {
             "type": "Point",
             "coordinates": [
@@ -4323,14 +4674,15 @@
     {
         "name": "Complexe Sportif Les Trois Glaces",
         "address": "655 Boul. Pierre-Bertrand",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2703969,
                 46.8216273
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Complexe sportif Mariette et Joseph Faucher",
@@ -4342,7 +4694,8 @@
                 -71.0794642,
                 46.0456884
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Complexe sportif Matra",
@@ -4354,7 +4707,8 @@
                 -70.652231,
                 45.9577216
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Complexe sportif Multidisciplinaire de L'Ancienne-Lorette",
@@ -4366,7 +4720,8 @@
                 -71.3614002,
                 46.808901
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Complexe sportif multidisciplinaire de Saint-Augustin-e-Desmaures",
@@ -4378,7 +4733,8 @@
                 -71.45987959774835,
                 46.74640069735979
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Complexe sportif Trane",
@@ -4390,23 +4746,25 @@
                 -71.11537109478786,
                 46.90238878942771
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "La CitÃ©/Limoilou",
+        "name": "La Cité/Limoilou",
         "address": "245 rue du Pont",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.2231221,
                 46.8188764
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "ArÃ©na de Lambton",
-        "address": "213 rue de l'arÃ©na",
+        "name": "Aréna de Lambton",
+        "address": "213 rue de l'aréna",
         "city": "Lambton",
         "coordinates": {
             "type": "Point",
@@ -4414,10 +4772,11 @@
                 -71.0898211,
                 45.8369435
             ]
-        }
+        },
+        "region": 5
     },
     {
-        "name": "MunicipalitÃ© de Frampton",
+        "name": "Municipalité de Frampton",
         "address": "107 rue Sainte-Anne",
         "city": "Frampton",
         "coordinates": {
@@ -4426,7 +4785,8 @@
                 -70.8075296,
                 46.4633104
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "OTJ Saint-Odilon",
@@ -4438,22 +4798,24 @@
                 -70.6738336,
                 46.3500193
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "SrÃ©an Gilles-Tremblay",
+        "name": "Sréan Gilles-Tremblay",
         "address": "1101 rue Larue",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.3578485,
                 46.7835564
             ]
-        }
+        },
+        "region": 3
     },
     {
-        "name": "Stade des BÃ¢tisseurs",
+        "name": "Stade des Bâtisseurs",
         "address": "132 Rue du Parc",
         "city": "Saint-Victor",
         "coordinates": {
@@ -4462,25 +4824,28 @@
                 -70.89987746597636,
                 46.148032650000005
             ]
-        }
+        },
+        "region": 12
     },
     {
-        "name": "ArÃ©na 3e escadre de Bagotville",
+        "name": "Aréna 3e escadre de Bagotville",
         "address": "C.P. 410",
         "city": "Saguenay",
-        "coordinates": null
+        "coordinates": null,
+        "region": 2
     },
     {
-        "name": "ArÃ©na de MÃ©tabetchouan-Lac-Ã -la-Croix",
-        "address": "87 rue St-AndrÃ©",
-        "city": "MÃ©tabetchouan-Lac-Ã -la-Croix",
+        "name": "Aréna de Métabetchouan-Lac-à-la-Croix",
+        "address": "87 rue St-André",
+        "city": "Métabetchouan-Lac-à-la-Croix",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -71.8719486,
                 48.4285119
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre Amishkuisht",
@@ -4505,7 +4870,8 @@
                 -71.65781997727538,
                 48.537912669649494
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre sportif Mistook",
@@ -4517,22 +4883,24 @@
                 -71.69546850901355,
                 48.638212749999994
             ]
-        }
+        },
+        "region": 2
     },
     {
-        "name": "Centre rÃ©crÃ©atif de Saint-FÃ©licien",
+        "name": "Centre récréatif de Saint-Félicien",
         "address": "1400 des Sports",
-        "city": "Saint-FÃ©licien",
+        "city": "Saint-Félicien",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.46043411429895,
                 48.64838085
             ]
-        }
+        },
+        "region": 2
     },
     {
-        "name": "Centre sportif BenoÃ®t-Levesque",
+        "name": "Centre sportif Benoît-Levesque",
         "address": "345 boul. de la jeunesse",
         "city": "Roberval",
         "coordinates": {
@@ -4541,7 +4909,8 @@
                 -72.226982,
                 48.50369
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre sportif et communautaire de Chapais",
@@ -4553,11 +4922,12 @@
                 -74.84880681840507,
                 49.778968250000005
             ]
-        }
+        },
+        "region": 10
     },
     {
         "name": "Centre sportif Gaston-Morin",
-        "address": "445 de l'Ã‰glise",
+        "address": "445 de l'Église",
         "city": "Sainte-Jeanne-d'Arc",
         "coordinates": {
             "type": "Point",
@@ -4565,7 +4935,8 @@
                 -72.0848385,
                 48.8658666
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre sportif Normandin",
@@ -4577,11 +4948,12 @@
                 -72.5250278,
                 48.835648
             ]
-        }
+        },
+        "region": 2
     },
     {
-        "name": "Centre sportif RÃ©jean-Temblay",
-        "address": "251 avenue CoudÃ©",
+        "name": "Centre sportif Réjean-Temblay",
+        "address": "251 avenue Coudé",
         "city": "Saint-David-de-Falardeau",
         "coordinates": {
             "type": "Point",
@@ -4589,7 +4961,8 @@
                 -71.112528,
                 48.623831
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre Sportif Saint-Nazaire Proco",
@@ -4601,7 +4974,8 @@
                 -71.54733090013983,
                 48.58729286307574
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Club sportif de Chambord",
@@ -4613,10 +4987,11 @@
                 -72.06317877834734,
                 48.428476352100155
             ]
-        }
+        },
+        "region": 2
     },
     {
-        "name": "ArÃ©na secteur Mistassini",
+        "name": "Aréna secteur Mistassini",
         "address": "60 rue Savard",
         "city": "Dolbeau-Mistassini",
         "coordinates": {
@@ -4625,11 +5000,12 @@
                 -72.2029626,
                 48.888836
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Complexe sportif Desjardins",
-        "address": "1032 rue des Ã‰rables",
+        "address": "1032 rue des Érables",
         "city": "Dolbeau-Mistassini",
         "coordinates": {
             "type": "Point",
@@ -4637,10 +5013,11 @@
                 -72.2238051,
                 48.8741849
             ]
-        }
+        },
+        "region": 2
     },
     {
-        "name": "Gestion arÃ©na Chibougamau",
+        "name": "Gestion aréna Chibougamau",
         "address": "155 Avenue du Parc",
         "city": "Chibougamau",
         "coordinates": {
@@ -4649,22 +5026,24 @@
                 -74.3704059,
                 49.9163382
             ]
-        }
+        },
+        "region": 10
     },
     {
-        "name": "MunicipalitÃ© de la Paroisse de La DorÃ© - Complexe sportif",
+        "name": "Municipalité de la Paroisse de La Doré - Complexe sportif",
         "address": "5000 rue des Peupliers",
-        "city": "La DorÃ©",
+        "city": "La Doré",
         "coordinates": {
             "type": "Point",
             "coordinates": [
                 -72.6493518,
                 48.7138902
             ]
-        }
+        },
+        "region": 2
     },
     {
-        "name": "MunicipalitÃ© de Saint-Ambroise",
+        "name": "Municipalité de Saint-Ambroise",
         "address": "330 rue Gagnon",
         "city": "Saint-Ambroise",
         "coordinates": {
@@ -4673,11 +5052,12 @@
                 -71.32122103846154,
                 48.553504807692306
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Pavillon de Service de l'UQAC",
-        "address": "555 Boul. de l'UniversitÃ©",
+        "address": "555 Boul. de l'Université",
         "city": "Saguenay",
         "coordinates": {
             "type": "Point",
@@ -4685,7 +5065,8 @@
                 -71.05257810996905,
                 48.41997635
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Saguenay - Centre des sports Jean-Claude-Temblay",
@@ -4697,10 +5078,11 @@
                 -70.87881207660271,
                 48.3399105
             ]
-        }
+        },
+        "region": 2
     },
     {
-        "name": "Saguenay - Les arÃ©nas de Chicoutimi",
+        "name": "Saguenay - Les arénas de Chicoutimi",
         "address": "201 rue Racine Est",
         "city": "Saguenay",
         "coordinates": {
@@ -4709,12 +5091,13 @@
                 -71.06220216060811,
                 48.42828275
             ]
-        }
+        },
+        "region": 2
     },
     {
-        "name": "ColisÃ©e VidÃ©otron",
-        "address": "6000 rue du ColisÃ©e",
-        "city": "Trois-RiviÃ¨res",
+        "name": "Colisée Vidéotron",
+        "address": "6000 rue du Colisée",
+        "city": "Trois-Rivières",
         "type": "olympique",
         "coordinates": {
             "type": "Point",
@@ -4722,12 +5105,13 @@
                 -72.5913238,
                 46.3218116
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Centre de glaces Intact Assurance",
         "address": "999 Av. De Rochebelle",
-        "city": "QuÃ©bec",
+        "city": "Québec",
         "type": "olympique",
         "coordinates": {
             "type": "Point",
@@ -4735,7 +5119,8 @@
                 -71.3013611,
                 46.7705876
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Complexe sportif Desjardins",
@@ -4748,6 +5133,7 @@
                 48.4493853
             ]
         },
-        "type":"olympique"
+        "type": "olympique",
+        "region": 1
     }
 ]
