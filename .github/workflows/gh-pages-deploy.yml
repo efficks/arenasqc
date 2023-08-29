@@ -3,6 +3,11 @@
     push:
       branches:
         - main
+
+  defaults:
+    run:
+      working-directory: ./arenaqc
+
   jobs:
     gh-pages-deploy:
       name: Deploying to Github Pages
