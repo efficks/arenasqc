@@ -9,7 +9,8 @@
                 -77.6254195,
                 49.7574304
             ]
-        }
+        },
+        "region": 10
     },
     {
         "name": "Aréna de Ste-Germaine-Boulé",
@@ -21,7 +22,8 @@
                 -79.1153585,
                 48.6159918
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Aréna Jean-Guy-Perron",
@@ -33,7 +35,8 @@
                 -76.9765288,
                 49.052402
             ]
-        }
+        },
+        "region": 10
     },
     {
         "name": "Aréna lamgold, Jacques-Laperrière, Évain et Cloutier",
@@ -45,7 +48,8 @@
                 -79.0180934,
                 48.2467356
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Aréna Nicol Auto de La Sarre",
@@ -57,7 +61,8 @@
                 -79.2053455,
                 48.7958953
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Aréna Rogatien-Vachon",
@@ -69,7 +74,8 @@
                 -79.2019739,
                 48.6667709
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Centre air Creebec",
@@ -81,7 +87,8 @@
                 -77.7856668,
                 48.1049135
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Centre Joachim-Tremblay",
@@ -93,7 +100,8 @@
                 -79.0050332,
                 48.7548317
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Centre Michel-Brière",
@@ -105,7 +113,8 @@
                 -78.1270747,
                 48.1363793
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Centre Récréatif de Dupuy",
@@ -117,7 +126,8 @@
                 -79.35692591735915,
                 48.8310166
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Centre récréatif de Taschereau",
@@ -129,7 +139,8 @@
                 -78.6845518,
                 48.6624357
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Centre sportif André-Dubé",
@@ -141,7 +152,8 @@
                 -77.2404754,
                 48.3903919
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Colisée de Guigues",
@@ -153,7 +165,8 @@
                 -79.437875375,
                 47.463878375
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Complexe sportif d'Amos",
@@ -165,7 +178,8 @@
                 -78.1117138,
                 48.569731
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Le Centre",
@@ -177,7 +191,8 @@
                 -79.0933389,
                 46.7217705
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Membre honoraire",
@@ -189,7 +204,8 @@
                 -78.14635344716227,
                 48.23960554821588
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Membre honoraire",
@@ -201,7 +217,8 @@
                 -79.04011840397958,
                 48.244215905935576
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Polydium",
@@ -213,7 +230,8 @@
                 -79.4891462,
                 47.5902427
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Ville de Ville-Marie",
@@ -225,7 +243,8 @@
                 -79.4374412,
                 47.3285184
             ]
-        }
+        },
+        "region": 8
     },
     {
         "name": "Aréna Connie-Dion",
@@ -237,7 +256,8 @@
                 -71.9424752,
                 45.780996
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Aréna de Bedford",
@@ -249,7 +269,8 @@
                 -72.9960711,
                 45.1183827
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Aréna de Magog",
@@ -261,7 +282,8 @@
                 -72.1468359,
                 45.2649413
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Aréna de Weedon",
@@ -273,7 +295,8 @@
                 -71.4607058,
                 45.707174
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Aréna Guy-Nadeau",
@@ -285,7 +308,8 @@
                 -73.01265184783863,
                 45.4127422
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Jacques-Chagnon",
@@ -297,7 +321,8 @@
                 -72.5249345,
                 45.3417411
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Aréna Jean-Charles-Perreault",
@@ -309,7 +334,8 @@
                 -71.9999772,
                 45.945911
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Aréna Léo-Paul-Boutin",
@@ -321,7 +347,8 @@
                 -71.7880539,
                 46.217175
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Aréna Mont Ste-Anne",
@@ -333,7 +360,8 @@
                 -71.9325961,
                 45.3729633
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Aréna Pat Burns (collège Stanstead)",
@@ -345,7 +373,8 @@
                 -72.09139006619662,
                 45.01324065
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Aréna Valcourt",
@@ -357,7 +386,8 @@
                 -72.3054307,
                 45.4953293
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Centre J.A.-Lemay",
@@ -369,7 +399,8 @@
                 -72.00566181902735,
                 45.5688776634602
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Centre Marcel-Dionne et Olympia Yvan-Cournoyer",
@@ -382,7 +413,8 @@
                 -72.47489409443179,
                 45.85870665
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Centre récréatif Gérard Couillard",
@@ -394,7 +426,8 @@
                 -71.7966796,
                 45.1342968
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Centre Récréatif Rock Forest",
@@ -406,7 +439,8 @@
                 -71.9886546,
                 45.3687892
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Centre sportif",
@@ -418,7 +452,8 @@
                 -72.1358241,
                 46.2011744
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Centre sportif d'Acton Vale",
@@ -430,7 +465,8 @@
                 -72.573432,
                 45.6558934
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Mégantic",
@@ -442,7 +478,8 @@
                 -70.87887990460902,
                 45.57683815
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Centre sportif P.E. Lefebvre",
@@ -454,7 +491,8 @@
                 -72.1471605,
                 45.6667425
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Centre sportif Paul-de-la-Sablonnière",
@@ -466,7 +504,8 @@
                 -71.8725143,
                 46.1771722
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Complexe sportif Thibault GM",
@@ -478,7 +517,8 @@
                 -71.94607888705316,
                 45.38001935
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Granby Multi-Sports",
@@ -490,7 +530,8 @@
                 -72.7462929,
                 45.4054014
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Membre à vie",
@@ -502,7 +543,8 @@
                 -72.5646076,
                 45.65582655142857
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Membre honoraire",
@@ -514,7 +556,8 @@
                 -72.1471605,
                 45.6667425
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Service des Loisirs de Saint-Hyacinthe",
@@ -526,7 +569,8 @@
                 -72.95402976168032,
                 45.634800150000004
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Service des loisirs et de la vie communautaire -Pavillon des sports Roland Desourdy",
@@ -538,7 +582,8 @@
                 -72.7402879,
                 45.2048941
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Service des loisirs, culture et tourisme",
@@ -550,7 +595,8 @@
                 -72.9773397,
                 45.2834126
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Société de l'aréna St-Cyrille Inc.",
@@ -562,7 +608,8 @@
                 -72.4186191,
                 45.9380174
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Ville de Bromont (SLCVC)",
@@ -574,7 +621,8 @@
                 -72.6424641,
                 45.3364677
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Ville de Sherbrooke (SSCVC)",
@@ -586,7 +634,8 @@
                 -71.8843891,
                 45.3950821
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Ville de Victoriaville",
@@ -598,7 +647,8 @@
                 -71.945093,
                 46.0557067
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Aréna Conrad-Parent et Aréna Guy-Carbonneau",
@@ -610,7 +660,8 @@
                 -66.1607445,
                 50.201427
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Aréna Daniel-Demers",
@@ -622,7 +673,8 @@
                 -67.0856832,
                 52.798134
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Aréna Denis-Perron",
@@ -634,7 +686,8 @@
                 -63.59734,
                 50.2451092
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Aréna Terry Lalo",
@@ -659,7 +712,8 @@
                 -68.1669625,
                 49.2096594
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Centre Henri-Desjardins",
@@ -671,7 +725,8 @@
                 -68.268513,
                 49.1915372
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Centre récréatif de Sacré-Coeur",
@@ -683,7 +738,8 @@
                 -69.80148765254599,
                 48.23292224844965
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Centre sportif Charles-Edouard Boucher",
@@ -695,7 +751,8 @@
                 -69.4073556,
                 48.3514502
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Complexe Guy-Ouellet",
@@ -707,7 +764,8 @@
                 -69.0988146,
                 48.7337281
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Complexe récréatif et culturel",
@@ -719,7 +777,8 @@
                 -66.8832166,
                 50.0214086
             ]
-        }
+        },
+        "region": 9
     },
     {
         "name": "Aréna Mario-Vollant",
@@ -734,11 +793,12 @@
         "city": "Natashquan",
         "coordinates": {
             "type": "Point",
-        "coordinates": [
-            -61.8037,
-            50.135
-        ]
-        }
+            "coordinates": [
+                -61.8037,
+                50.135
+            ]
+        },
+        "region": 9
     },
     {
         "name": "Aréna Bertrand-Lepage",
@@ -750,7 +810,8 @@
                 -69.1753126,
                 48.1254565
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Aréna duBreton",
@@ -762,7 +823,8 @@
                 -69.1522055,
                 47.8164542
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Aréna Gilbert-Desrosiers",
@@ -774,7 +836,8 @@
                 -65.49000640623488,
                 48.049300706372414
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Aréna J. Robert-Lévesque",
@@ -786,7 +849,8 @@
                 -66.49126654658153,
                 49.1222709712883
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Carrefour Sportif",
@@ -798,7 +862,8 @@
                 -67.43587,
                 48.462407
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre culturel de St-Quentin Inc.",
@@ -817,7 +882,8 @@
                 -69.536946,
                 47.8276084
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre récréatif",
@@ -829,7 +895,8 @@
                 -64.4977258,
                 48.4019872
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Centre sportif (Aréna Cabano et Aréna Jacques-Dubé, Notre-Dame-du-Lac)",
@@ -841,7 +908,8 @@
                 -68.8524919,
                 47.6578468
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre sportif Clément-Tremblay",
@@ -853,7 +921,8 @@
                 -64.681524,
                 48.351374
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Centre sportif Gérard-Duchaîne",
@@ -865,7 +934,8 @@
                 -67.221488,
                 48.354178
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre sportif John-Lapointe",
@@ -877,7 +947,8 @@
                 -65.67931345,
                 48.1013626
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Colisée Béton Provincial",
@@ -889,7 +960,8 @@
                 -67.530534,
                 48.8432051
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Colisée Financière Sun Life",
@@ -901,7 +973,8 @@
                 -68.5216505,
                 48.4417014
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Complexe Louis-Santerre",
@@ -913,7 +986,8 @@
                 -69.0208573,
                 47.8956008
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Complexe Sportif de Paspébiac",
@@ -925,7 +999,8 @@
                 -65.2445044,
                 48.0339257
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Complexe sportif Jean-Marie-Jobin",
@@ -937,7 +1012,8 @@
                 -65.859713,
                 48.165988
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Complexe sportif Rosaire-Bélanger",
@@ -949,7 +1025,8 @@
                 -69.0414863,
                 47.434991
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Membre honoraire",
@@ -961,7 +1038,8 @@
                 -65.859713,
                 48.165988
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Membre honoraire",
@@ -973,7 +1051,8 @@
                 -69.0208573,
                 47.8956008
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Membre honoraire",
@@ -985,7 +1064,8 @@
                 -69.1680429,
                 48.1188011
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Membre honoraire",
@@ -997,7 +1077,8 @@
                 -67.5182362368421,
                 48.84694113157895
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Membre honoraire",
@@ -1009,7 +1090,8 @@
                 -68.5231748,
                 48.438618
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Municipalité de Nouvelle",
@@ -1021,7 +1103,8 @@
                 -66.31330007639667,
                 48.13829672759821
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Municipalité de Port-Daniel-Gascons",
@@ -1033,7 +1116,8 @@
                 -64.969926,
                 48.179574
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Municipalité de Saint-Jean-de-Dieu",
@@ -1045,7 +1129,8 @@
                 -69.0463812,
                 48.0010343
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Municipalité des Îles-de-la-Madeleine",
@@ -1057,7 +1142,8 @@
                 -61.8747087,
                 47.3740442
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Palais des sports",
@@ -1076,7 +1162,8 @@
                 -68.8647768,
                 48.2942509
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre récréatif Luc-Germain de Gaspé",
@@ -1088,7 +1175,8 @@
                 -64.4764507,
                 48.8246714
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Services des loisirs Dégelis",
@@ -1100,7 +1188,8 @@
                 -68.64748300000001,
                 47.5479375
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Stade du centenaire",
@@ -1112,7 +1201,8 @@
                 -68.1888627,
                 48.5852031
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Ville de Carleton-sur-Mer",
@@ -1124,7 +1214,8 @@
                 -66.1220516,
                 48.1017851
             ]
-        }
+        },
+        "region": 11
     },
     {
         "name": "Ville d'Edmundston, Loisirs et Culture",
@@ -1143,7 +1234,8 @@
                 -72.6908327,
                 46.6116608
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Aréna de Saint-Boniface",
@@ -1155,7 +1247,8 @@
                 -72.8294723,
                 46.5015982
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Aréna Émile-Bédard",
@@ -1167,7 +1260,8 @@
                 -72.6547169,
                 46.6255432
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Aréna Fernand-Asselin",
@@ -1179,7 +1273,8 @@
                 -72.58335651497615,
                 46.3654745
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Aréna Gilles-Bourassa",
@@ -1191,7 +1286,8 @@
                 -72.75497222485971,
                 46.51749080360756
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Aréna Glace Olympique Énergie",
@@ -1203,7 +1299,8 @@
                 -72.5339203,
                 46.3740061
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Aréna Jean-Guy Talbot",
@@ -1215,7 +1312,8 @@
                 -72.5325862,
                 46.3684673
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Aréna Jérôme-Cotnoir",
@@ -1227,7 +1325,8 @@
                 -72.58992240542631,
                 46.3407653
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Aréna le Prix du Gros.com",
@@ -1239,7 +1338,8 @@
                 -72.20346304669187,
                 46.56617758944931
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Aréna Pierre-Provencher",
@@ -1251,7 +1351,8 @@
                 -72.6161236,
                 46.226352
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Aréna Roland-Rheault",
@@ -1263,7 +1364,8 @@
                 -72.4362555,
                 46.3480884
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Centre culturel et sportif",
@@ -1275,7 +1377,8 @@
                 -72.1834862,
                 46.4874347
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Centre Gervais Auto",
@@ -1287,7 +1390,8 @@
                 -72.743972,
                 46.5473937
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Centre Richard-Lebeau",
@@ -1299,7 +1403,8 @@
                 -72.3713302,
                 46.1099158
             ]
-        }
+        },
+        "region": 17
     },
     {
         "name": "Centre sportif de Louiseville",
@@ -1311,7 +1416,8 @@
                 -72.94659,
                 46.2524163
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Centre sportif et communautaire",
@@ -1336,7 +1442,8 @@
                 -72.5594132,
                 46.3484859
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Colisée municipal",
@@ -1348,7 +1455,8 @@
                 -72.78127938372376,
                 47.443455521372584
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Complexe sportif Saint-Louis-de-France",
@@ -1360,7 +1468,8 @@
                 -72.5995903,
                 46.4239364
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Faubourg Mont-Bénilde",
@@ -1373,7 +1482,8 @@
                 46.3290586
             ]
         },
-        "disabled": true
+        "disabled": true,
+        "region": 17
     },
     {
         "name": "Sportium municipal",
@@ -1385,7 +1495,8 @@
                 -72.5610881,
                 46.7303146
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Aréna Ahuntsic",
@@ -1397,7 +1508,8 @@
                 -73.664571,
                 45.5571885
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna André-Richard",
@@ -1409,7 +1521,8 @@
                 -73.873905,
                 45.30154
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna André-St-Laurent",
@@ -1421,7 +1534,8 @@
                 -73.2143086,
                 45.5739361
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "aréna Bill-Durnan",
@@ -1433,7 +1547,8 @@
                 -73.6444035,
                 45.4948825
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Bob Birnie",
@@ -1445,7 +1560,8 @@
                 -73.820967,
                 45.4593643
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Camillien-Houde",
@@ -1457,7 +1573,8 @@
                 -73.5598555,
                 45.5198915
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Cartier",
@@ -1469,7 +1586,8 @@
                 -73.6841373,
                 45.5595614
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Aréna Chaumont",
@@ -1481,7 +1599,8 @@
                 -73.546627,
                 45.6109402
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Chénier",
@@ -1493,7 +1612,8 @@
                 -73.5410428,
                 45.6013625
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Chomedey",
@@ -1505,7 +1625,8 @@
                 -73.7466316,
                 45.5472086
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Aréna Clément-Jetté",
@@ -1517,7 +1638,8 @@
                 -73.5168712,
                 45.6015372
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Cynthia Coull",
@@ -1529,7 +1651,8 @@
                 -73.48977092785285,
                 45.492498
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna de Blainville",
@@ -1541,7 +1664,8 @@
                 -73.8836227,
                 45.6874639
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Aréna de Boisbriand",
@@ -1553,7 +1677,8 @@
                 -73.83967037899811,
                 45.613592600000004
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Aréna de Dorval",
@@ -1565,7 +1690,8 @@
                 -73.75723207902219,
                 45.44192623778875
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna de Kirkland (Kirkland sports complex)",
@@ -1577,7 +1703,8 @@
                 -73.8467603,
                 45.4498299
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna de la Cité-des-Jeunes",
@@ -1589,7 +1716,8 @@
                 -74.0288102,
                 45.3918892
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna de la Ville de La Prairie",
@@ -1601,7 +1729,8 @@
                 -73.466026,
                 45.4002919
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna de l'université Concordia (Ed Meagher)",
@@ -1613,7 +1742,8 @@
                 -73.638952,
                 45.4575911
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna de l'université de Montréal",
@@ -1625,7 +1755,8 @@
                 -73.6123128650986,
                 45.5093376
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna de l'université McGill (aréna McConnell)",
@@ -1637,7 +1768,8 @@
                 -73.58188576666666,
                 45.50914450222222
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna de Mascouche",
@@ -1649,7 +1781,8 @@
                 -73.599432,
                 45.739634
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Aréna de Rosemère",
@@ -1661,7 +1794,8 @@
                 -73.7838,
                 45.637394
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "aréna Doug-Harvey",
@@ -1673,7 +1807,8 @@
                 -73.6385717440526,
                 45.47140995
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna du Collège Bourget",
@@ -1685,7 +1820,8 @@
                 -74.3096332,
                 45.473443
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna du Collège de l'Assomption",
@@ -1697,7 +1833,8 @@
                 -73.4186304,
                 45.8278518
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Aréna du Collège Jean-de-Brébeuf",
@@ -1709,7 +1846,8 @@
                 -73.6907081,
                 45.5052527
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna du Collège McDonald",
@@ -1721,7 +1859,8 @@
                 -73.9418275,
                 45.4126524
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna du Collège Notre-Dame",
@@ -1733,7 +1872,8 @@
                 -73.62237774638291,
                 45.4932948
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Émile \"Butch\" Bouchard",
@@ -1745,7 +1885,8 @@
                 -73.4920966,
                 45.5405319
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Eric-Sharp",
@@ -1757,7 +1898,8 @@
                 -73.5088716,
                 45.5046862
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Étienne-Desmarteau",
@@ -1769,7 +1911,8 @@
                 -73.58023942656416,
                 45.555531650000006
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Fleury",
@@ -1781,7 +1924,8 @@
                 -73.637882,
                 45.5834718
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Francis Bouillon",
@@ -1793,7 +1937,8 @@
                 -73.55101582727272,
                 45.54191052727273
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Garon",
@@ -1805,7 +1950,8 @@
                 -73.6376267,
                 45.5947285
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Gilles Lupien",
@@ -1817,7 +1963,8 @@
                 -74.4040711,
                 45.6749388
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Aréna Hartland-Monahan",
@@ -1829,7 +1976,8 @@
                 -73.8658532835298,
                 45.5472318
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Aréna Howie-Morenz",
@@ -1841,7 +1989,8 @@
                 -73.6420111,
                 45.534219
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Jacques Lemaire",
@@ -1853,7 +2002,8 @@
                 -73.621895,
                 45.4191291
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Jacques-Cartier",
@@ -1865,7 +2015,8 @@
                 -73.5005801,
                 45.5176779
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Jean-Rougeau",
@@ -1877,7 +2028,8 @@
                 -73.2846502,
                 45.5098358
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Joannie Rochette",
@@ -1889,7 +2041,8 @@
                 -73.1942445,
                 46.0844012
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Aréna Julien-Beauregard",
@@ -1901,7 +2054,8 @@
                 -73.1498264,
                 45.4306849
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Kevin Lowe - Pierre Pagé",
@@ -1913,7 +2067,8 @@
                 -74.3513876,
                 45.6544184
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Aréna Le Gardeur",
@@ -1925,7 +2080,8 @@
                 -73.4755498,
                 45.76055
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Aréna L'Olympia",
@@ -1937,7 +2093,8 @@
                 -73.91691259480274,
                 45.543824900000004
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Aréna Lower Canada College",
@@ -1949,7 +2106,8 @@
                 -73.6229761,
                 45.4705815
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Lucerne",
@@ -1961,7 +2119,8 @@
                 -73.7185099,
                 45.6005741
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Aréna Marcel-Larocque",
@@ -1973,7 +2132,8 @@
                 -73.2318263,
                 45.2939453
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Marcellin-Wilson",
@@ -1985,7 +2145,8 @@
                 -73.6842383,
                 45.5359993
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Martin Lapointe",
@@ -1997,7 +2158,8 @@
                 -73.6513223,
                 45.4457062
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Martin St-Louis",
@@ -2009,7 +2171,8 @@
                 -73.8022709,
                 45.5265806
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Aréna Martin-Brodeur",
@@ -2021,7 +2184,8 @@
                 -73.6010543,
                 45.5858089
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Maurice-Richard",
@@ -2034,7 +2198,8 @@
                 -73.54723979809955,
                 45.5622426
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Michael-Bilodeau",
@@ -2046,7 +2211,8 @@
                 -73.3390743,
                 45.5334366
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Michel-Normandin",
@@ -2058,7 +2224,8 @@
                 -73.4561704684166,
                 45.44876845
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Michel-Normandin",
@@ -2070,7 +2237,8 @@
                 -73.63744570939579,
                 45.5512045
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Mike Bossy",
@@ -2082,7 +2250,8 @@
                 -73.75996829243422,
                 45.62778739084999
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Aréna Mont-Royal",
@@ -2094,7 +2263,8 @@
                 -73.571709,
                 45.5330953
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna municipal de Mont-Tremblant",
@@ -2106,7 +2276,8 @@
                 -74.581538,
                 46.125976
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Aréna municipal de Saint-Jean-sur-Richelieu",
@@ -2118,7 +2289,8 @@
                 -73.25589223959068,
                 45.30084945
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna municipal de Vaudreuil-Dorion",
@@ -2130,7 +2302,8 @@
                 -74.0265499,
                 45.3971805
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Olympia",
@@ -2142,7 +2315,8 @@
                 -73.4606197,
                 45.5128088
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Père-Marquette",
@@ -2154,7 +2328,8 @@
                 -73.5957296,
                 45.5393349
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Pierre \"Pete\" Morin",
@@ -2166,7 +2341,8 @@
                 -73.6816843,
                 45.439831
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Raymond-Bourque",
@@ -2178,7 +2354,8 @@
                 -73.7020766,
                 45.5059898
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna régional de Huntingdon",
@@ -2190,7 +2367,8 @@
                 -74.17433808318684,
                 45.0801311998667
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna régional de la Rivière-du-Nord",
@@ -2202,7 +2380,8 @@
                 -73.9843767,
                 45.7885339
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Aréna René-Masson",
@@ -2214,7 +2393,8 @@
                 -73.57788754596211,
                 45.6515845
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Repentigny",
@@ -2226,7 +2406,8 @@
                 -73.452821,
                 45.743266
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Aréna Richard Trottier",
@@ -2238,7 +2419,8 @@
                 -73.7955937,
                 45.5761791
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Aréna Roberto-Luongo",
@@ -2250,7 +2432,8 @@
                 -73.5961697,
                 45.5736184
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Roch-Lasalle",
@@ -2262,7 +2445,8 @@
                 -73.4675506,
                 45.960846
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Aréna Rodrigue-Gilbert",
@@ -2274,7 +2458,8 @@
                 -73.5000362,
                 45.6512983
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Rolland",
@@ -2286,7 +2471,8 @@
                 -73.6192497,
                 45.6150034
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Ronald Caron (CEGEP Saint-Laurent)",
@@ -2298,7 +2484,8 @@
                 -73.6727102708738,
                 45.51185837184466
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Saint-Canut",
@@ -2310,7 +2497,8 @@
                 -74.0644429,
                 45.7098696
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Aréna Saint-Charles",
@@ -2322,7 +2510,8 @@
                 -73.5636344,
                 45.4796566
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Saint-Donat",
@@ -2334,7 +2523,8 @@
                 -73.53833538888888,
                 45.5827282
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Saint-François",
@@ -2346,7 +2536,8 @@
                 -73.5775267,
                 45.6741599
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Aréna Saint-Louis",
@@ -2358,7 +2549,8 @@
                 -73.60099536412007,
                 45.52789558539264
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Saint-Michel",
@@ -2370,7 +2562,8 @@
                 -73.60740775,
                 45.566019383333334
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Salaberry",
@@ -2382,7 +2575,8 @@
                 -74.1284299,
                 45.2510909
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Aréna Samuel-Moskovitch",
@@ -2394,7 +2588,8 @@
                 -73.67006977851406,
                 45.4732042
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Ville Mont-Royal",
@@ -2406,7 +2601,8 @@
                 -73.63989119823175,
                 45.514949099999995
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna YMCA",
@@ -2418,7 +2614,8 @@
                 -73.5449951,
                 45.557821
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Yvon-Chartrand",
@@ -2430,7 +2627,8 @@
                 -73.6752735,
                 45.5831223
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Atrium - 1000 de La Gauchetière",
@@ -2442,7 +2640,8 @@
                 -73.5665041,
                 45.4983565
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Auditorium de Verdun",
@@ -2454,7 +2653,8 @@
                 -73.5631167,
                 45.46224058181818
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre Bell",
@@ -2466,7 +2666,8 @@
                 -73.5692218,
                 45.4971367
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre civique de Salaberry-de-Valleyfield",
@@ -2478,7 +2679,8 @@
                 -74.1427968,
                 45.2673022
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre civique Dollard-des-Ormeaux",
@@ -2490,7 +2692,8 @@
                 -73.80883787320532,
                 45.48453055
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre Communautaire intergénérationnel d'outremont",
@@ -2502,7 +2705,8 @@
                 -73.6195238137524,
                 45.51997325
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre de la culture et du sport de Sainte-Julie",
@@ -2514,7 +2718,8 @@
                 -73.3288117,
                 45.5824579
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre des glaces Gilles-Chabot",
@@ -2526,7 +2731,8 @@
                 -73.43438940038219,
                 45.59458345
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre des loisirs de Westmount",
@@ -2538,7 +2744,8 @@
                 -73.595768,
                 45.4790415
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre d'excellence Sports Rousseau",
@@ -2550,7 +2757,8 @@
                 -73.8595553,
                 45.6311762
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre multisport de Châteauguay",
@@ -2563,7 +2771,8 @@
                 45.34306735108736
             ]
         },
-        "type":"olympique"
+        "type": "olympique",
+        "region": 16
     },
     {
         "name": "Centre récréatif Aussant",
@@ -2575,7 +2784,8 @@
                 -73.1276323,
                 46.0450698
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre récréatif de Beaconsfield",
@@ -2587,7 +2797,8 @@
                 -73.8659914,
                 45.4255876
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre récréatif Édouard-Rivet (aréna Ralph-Buchanan)",
@@ -2599,7 +2810,8 @@
                 -73.5008964,
                 45.6287669
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre récréatif Marcel-Bonin",
@@ -2611,7 +2823,8 @@
                 -73.4371014,
                 46.0210961
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Centre récréatif Saint-David",
@@ -2623,7 +2836,8 @@
                 -72.8588408,
                 45.9556996
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Ben Leduc",
@@ -2635,7 +2849,8 @@
                 -75.4504086,
                 46.7011025
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif Damien-Hétu",
@@ -2647,7 +2862,8 @@
                 -74.277298,
                 46.0510015
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif de Delson",
@@ -2659,7 +2875,8 @@
                 -73.547235,
                 45.373306
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif de La Prairie",
@@ -2671,7 +2888,8 @@
                 -73.4953164,
                 45.4148613
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif de Lorraine",
@@ -2683,7 +2901,8 @@
                 -73.7824778,
                 45.6654496
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif de Mercier",
@@ -2695,7 +2914,8 @@
                 -73.746313,
                 45.313579
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif de Saint-Antoine",
@@ -2707,7 +2927,8 @@
                 -73.980383,
                 45.774155
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif de Ste-Anne-des-Plaines",
@@ -2719,7 +2940,8 @@
                 -73.825763,
                 45.763696
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif Dollard St-Laurent",
@@ -2731,7 +2953,8 @@
                 -73.6289742,
                 45.4226953
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre sportif et culturel de Brandon",
@@ -2743,7 +2966,8 @@
                 -73.383417,
                 46.2926304
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Centre sportif et culturel de la Vallée de la Rouge",
@@ -2755,7 +2979,8 @@
                 -74.863307340451,
                 46.4004769
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif et culturel de Saint-Thimothée",
@@ -2767,7 +2992,8 @@
                 -74.05269473934426,
                 45.28739859672131
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif et culturel du Collège Saint-Jean-Vianney",
@@ -2779,7 +3005,8 @@
                 -73.52226468314812,
                 45.69285655715775
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Centre sportif Gaétan-Boucher",
@@ -2791,7 +3018,8 @@
                 -73.4599231,
                 45.4935817
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Jacques-Lesage",
@@ -2803,7 +3031,8 @@
                 -75.5000625,
                 46.5599305
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Centre sportif régional de Contrecoeur",
@@ -2815,7 +3044,8 @@
                 -73.2258299,
                 45.8554943
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif régional des Copains",
@@ -2827,7 +3057,8 @@
                 -73.7988974,
                 45.2492844
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif régional Les Jardins du Québec",
@@ -2839,7 +3070,8 @@
                 -73.614282,
                 45.255954
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif régional Louis-Cyr",
@@ -2851,7 +3083,8 @@
                 -73.4014277,
                 45.1931457
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Robert Lebel",
@@ -2863,7 +3096,8 @@
                 -73.26789557957242,
                 45.4373344
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Rosanne-Laflamme",
@@ -2875,7 +3109,8 @@
                 -73.3940204,
                 45.4891389
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Saint-Lin-Laurentides",
@@ -2887,7 +3122,8 @@
                 -73.757581,
                 45.842725
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Centre sportif Soulanges",
@@ -2899,7 +3135,8 @@
                 -74.3089073,
                 45.3010974
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Centre sportif Westwood arena",
@@ -2911,7 +3148,8 @@
                 -73.7641001,
                 45.4560223
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Colisée Cardin",
@@ -2923,7 +3161,8 @@
                 -73.1035289,
                 46.0402589
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Colisée de Laval",
@@ -2935,7 +3174,8 @@
                 -73.6499978,
                 45.6140954
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Colisée Isabelle-Brasseur",
@@ -2947,7 +3187,8 @@
                 -73.2784541,
                 45.3361961
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Colisée Jean-Béliveau",
@@ -2959,7 +3200,8 @@
                 -73.4578606,
                 45.5355579
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe du Val d'Espoir",
@@ -2971,7 +3213,8 @@
                 -73.93166107416526,
                 45.71000004570048
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Complexe Hockey Bonaventure",
@@ -2983,7 +3226,8 @@
                 -73.69369707706203,
                 45.4845438646849
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Complexe JC Perreault",
@@ -2995,7 +3239,8 @@
                 -73.6062123,
                 45.8267539
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Complexe Jean-Laurin",
@@ -3007,7 +3252,8 @@
                 -73.983985,
                 45.63488
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Complexe récréatif Gadbois",
@@ -3019,7 +3265,8 @@
                 -73.593996,
                 45.4671852
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Complexe sportif Absolu",
@@ -3031,7 +3278,8 @@
                 -73.25265371869696,
                 45.2956772
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif Bell",
@@ -3043,7 +3291,8 @@
                 -73.4466314,
                 45.4542632
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif Chambly",
@@ -3055,7 +3304,8 @@
                 -73.2897923,
                 45.4391142
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif de Candiac",
@@ -3067,7 +3317,8 @@
                 -73.532745,
                 45.376546
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif Guimond",
@@ -3079,7 +3330,8 @@
                 -73.7841046,
                 45.5623707
             ]
-        }
+        },
+        "region": 13
     },
     {
         "name": "Complexe sportif Longueuil",
@@ -3091,7 +3343,8 @@
                 -73.4926351,
                 45.5125329
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif Saint-Raphaël",
@@ -3103,7 +3356,8 @@
                 -73.8762118,
                 45.5029885
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Complexe sportif SportScene",
@@ -3115,7 +3369,8 @@
                 -73.1832945,
                 45.5681102
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif St-Constant",
@@ -3127,7 +3382,8 @@
                 -73.5991173,
                 45.3803084
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe sportif St-Lazare",
@@ -3139,7 +3395,8 @@
                 -74.1400968,
                 45.3967723
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Complexe Walter Buswell",
@@ -3152,7 +3409,8 @@
                 45.5611559
             ]
         },
-        "edited":true
+        "edited": true,
+        "region": 15
     },
     {
         "name": "Evolution Ice",
@@ -3164,7 +3422,8 @@
                 -73.78532835057472,
                 45.48335020632184
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Excellence sur glace",
@@ -3176,7 +3435,8 @@
                 -73.8397822,
                 45.4519758
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Hockey Etcetera",
@@ -3188,7 +3448,8 @@
                 -73.6570921,
                 45.5162501
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Kahnawake sports complex",
@@ -3213,7 +3474,8 @@
                 -73.54749857692308,
                 45.400076661538456
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Les complexes sportifs Terrebonne / Cité du Sport",
@@ -3225,7 +3487,8 @@
                 -73.70565881497137,
                 45.72174378708735
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Les complexes sportifs Terrebonne / Forum",
@@ -3237,7 +3500,8 @@
                 -73.725798,
                 45.764788
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Les complexes sportifs Terrebonne / Multiglace",
@@ -3249,7 +3513,8 @@
                 -73.622133,
                 45.710006
             ]
-        }
+        },
+        "region": 14
     },
     {
         "name": "Patinoire Deux-Montagnes",
@@ -3261,7 +3526,8 @@
                 -73.920616,
                 45.541799
             ]
-        }
+        },
+        "region": 15
     },
     {
         "name": "Place Bell",
@@ -3275,7 +3541,8 @@
                 45.5563529
             ]
         },
-        "opendata":false
+        "opendata": false,
+        "region": 13
     },
     {
         "name": "Sportplex de l'Énergie",
@@ -3287,7 +3554,8 @@
                 -73.3832788,
                 45.6311881
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Sportplex de l'Énergie",
@@ -3299,7 +3567,8 @@
                 -73.3832788,
                 45.6311881
             ]
-        }
+        },
+        "region": 16
     },
     {
         "name": "Sportplexe Pierrefonds",
@@ -3311,7 +3580,8 @@
                 -73.8574695,
                 45.4857293
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Sportplexe Pierrefonds",
@@ -3323,7 +3593,8 @@
                 -73.8574695,
                 45.4857293
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "The Legion Rink",
@@ -3335,7 +3606,8 @@
                 -73.6523209,
                 45.4523122
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "The Legion Rink",
@@ -3347,7 +3619,8 @@
                 -73.6523209,
                 45.4523122
             ]
-        }
+        },
+        "region": 6
     },
     {
         "name": "Aréna Stéphane-Richer",
@@ -3359,7 +3632,8 @@
                 -75.04640033709707,
                 45.72563595
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Centre Meredith",
@@ -3371,7 +3645,8 @@
                 -75.7929962784732,
                 45.50712695
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Centre Meredith",
@@ -3383,7 +3658,8 @@
                 -75.7929962784732,
                 45.50712695
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Complexe sportif du Haut-Pontiac",
@@ -3395,7 +3671,8 @@
                 -77.07086294200184,
                 45.910179150000005
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Complexe sportif La Pêche",
@@ -3407,7 +3684,8 @@
                 -76.0334505,
                 45.6448505
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Complexe sportif Robert-Hartley",
@@ -3426,7 +3704,8 @@
                 -75.74517000617284,
                 45.460964000000004
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Municipalité de Papineauville",
@@ -3438,7 +3717,8 @@
                 -75.0184233,
                 45.6193509
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Sportium de Val-des-Monts",
@@ -3450,7 +3730,8 @@
                 -75.61765133973164,
                 45.59848657107893
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Ville de Gatineau - Parcs et infrastructures récréatives",
@@ -3462,7 +3743,8 @@
                 -75.68716759398535,
                 45.481816499999994
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Ville de Gatineau - Section des arénas",
@@ -3474,7 +3756,8 @@
                 -75.68204263621817,
                 45.48308625
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Ville de Gatineau - Section des arénas",
@@ -3486,7 +3769,8 @@
                 -75.73353928898175,
                 45.4520572
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Ville de Gatineau - Section des arénas",
@@ -3498,7 +3782,8 @@
                 -75.68204263621817,
                 45.48308625
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Ville de Maniwaki, Service des loisirs et de la culture",
@@ -3510,7 +3795,8 @@
                 -75.9818114,
                 46.3743248
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Ville de Thurso",
@@ -3522,7 +3808,8 @@
                 -75.2435886,
                 45.5993104
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Complexe Brancahud-Brière",
@@ -3534,7 +3821,8 @@
                 -75.6446323,
                 45.4975545
             ]
-        }
+        },
+        "region": 7
     },
     {
         "name": "Aréna  Réjean-Lemelin",
@@ -3546,7 +3834,8 @@
                 -71.2688608,
                 46.8876125
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna 2 glaces Val-Bélair",
@@ -3558,7 +3847,8 @@
                 -71.4181515,
                 46.8595157
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna 76",
@@ -3570,7 +3860,8 @@
                 -71.3535032,
                 45.9077777
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna André-Lacroix",
@@ -3582,7 +3873,8 @@
                 -71.1524224,
                 46.8138842
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna Bardy",
@@ -3594,7 +3886,8 @@
                 -71.2226241,
                 46.843468
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna Bruno-Verret",
@@ -3607,7 +3900,8 @@
                 -71.3129913,
                 46.6521328
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna BSR",
@@ -3619,7 +3913,8 @@
                 -71.2940632,
                 46.7087772
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna Clément-Boulanger",
@@ -3631,7 +3926,8 @@
                 -71.4999935,
                 46.8948727
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna Clément-Boulanger",
@@ -3643,7 +3939,8 @@
                 -71.4999935,
                 46.8948727
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna Côte-de-Beaupré",
@@ -3655,7 +3952,8 @@
                 -70.9007241,
                 47.041386
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna de Beauceville",
@@ -3667,7 +3965,8 @@
                 -70.7707778,
                 46.2120057
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna de Black Lake",
@@ -3679,7 +3978,8 @@
                 -71.3650661,
                 46.0481023
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna de Clermont",
@@ -3691,7 +3991,8 @@
                 -70.2257174,
                 47.6879751
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna de Lévis",
@@ -3703,7 +4004,8 @@
                 -71.1759197,
                 46.8024371
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna de Montmagny",
@@ -3715,7 +4017,8 @@
                 -70.5632129831863,
                 46.983875499999996
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna de Saint-Côme",
@@ -3727,7 +4030,8 @@
                 -70.5194168,
                 46.0579216
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna de Saint-Pamphile",
@@ -3739,7 +4043,8 @@
                 -69.7885769,
                 46.9604998
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna de Saint-Ubalde",
@@ -3751,7 +4056,8 @@
                 -72.2663216,
                 46.7557004
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna de St-Charles-de-Bellechasse",
@@ -3763,7 +4069,8 @@
                 -70.944479,
                 46.7742482
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna Duberger",
@@ -3775,7 +4082,8 @@
                 -71.2946775,
                 46.814978
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna Gaétan-Duchesne",
@@ -3787,7 +4095,8 @@
                 -71.32489437872198,
                 46.809427
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna J.-É.-Métivier",
@@ -3799,7 +4108,8 @@
                 -70.66935666727545,
                 46.6296847
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna Jacques-Côté",
@@ -3811,7 +4121,8 @@
                 -71.2453161,
                 46.7751448
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna Lac-Etchemin",
@@ -3823,7 +4134,8 @@
                 -70.5044147,
                 46.3963804
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna les Galeries de la Capitale",
@@ -3835,7 +4147,8 @@
                 -71.299996,
                 46.8288373
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna Luc et Marie-Claude de Baie-Saint-Paul",
@@ -3847,7 +4160,8 @@
                 -70.5079719,
                 47.4409338
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna Marcel-Dutil",
@@ -3859,7 +4173,8 @@
                 -70.64274691806578,
                 45.852980171950676
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna municipal de St-Joseph-de-Beauce",
@@ -3871,7 +4186,8 @@
                 -70.88083090773904,
                 46.3157335
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna Patrick Poulin",
@@ -3884,8 +4200,8 @@
                 46.8150557
             ]
         },
-        "edited":true
-
+        "edited": true,
+        "region": 3
     },
     {
         "name": "Aréna Saint-Édouard-de-Frampton",
@@ -3897,7 +4213,8 @@
                 -70.8075639,
                 46.4632434
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna Saint-Honoré-de-Shenley",
@@ -3909,7 +4226,8 @@
                 -70.8257092,
                 45.9639515
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna Saint-Prosper",
@@ -3921,7 +4239,8 @@
                 -70.478177,
                 46.213575
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna Saint-Raymond",
@@ -3933,7 +4252,8 @@
                 -71.8347071,
                 46.8919696
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna Saint-Romuald",
@@ -3945,7 +4265,8 @@
                 -71.2341314,
                 46.7492561
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna St-Éphrem",
@@ -3957,7 +4278,8 @@
                 -70.94583091845936,
                 46.06467026691617
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Arpidrome",
@@ -3969,7 +4291,8 @@
                 -71.25466694733508,
                 46.864005296201476
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Auquaréna de Charny",
@@ -3981,7 +4304,8 @@
                 -71.2665138,
                 46.7222937
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Bombardier",
@@ -3993,7 +4317,8 @@
                 -70.0323903,
                 47.3694832
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre Bruno-Berret",
@@ -4005,7 +4330,8 @@
                 -71.3811369,
                 46.7009839
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Caztel",
@@ -4017,7 +4343,8 @@
                 -71.0308737,
                 46.4516031
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre communautaire Michel Labadie",
@@ -4029,7 +4356,8 @@
                 -71.34658383097764,
                 46.832500800000005
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Centre des loisirs Desjardins d'East-Broughton",
@@ -4041,7 +4369,8 @@
                 -71.07517172442485,
                 46.21494663492514
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Mario-Gosselin",
@@ -4053,7 +4382,8 @@
                 -71.3064494,
                 46.097516
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna St-Isidore",
@@ -4065,7 +4395,8 @@
                 -71.08360296737392,
                 46.5854195367598
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre récréatif Chantal-Petitclerc",
@@ -4077,7 +4408,8 @@
                 -72.0620165,
                 46.6860298
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Centre récréatif de Donnacona",
@@ -4089,7 +4421,8 @@
                 -71.730651,
                 46.6796198
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Centre récréatif de Saint-Henri Inc.",
@@ -4101,7 +4434,8 @@
                 -71.06518395398817,
                 46.69354265
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre récréatif de St-Gilles",
@@ -4113,7 +4447,8 @@
                 -71.3649093,
                 46.5063284
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Récréatif Joé-Juneau",
@@ -4125,7 +4460,8 @@
                 -71.69631308992527,
                 46.751521249999996
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Centre Rousseau",
@@ -4137,7 +4473,8 @@
                 -70.26112020000001,
                 47.21033815
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Sportif",
@@ -4149,7 +4486,8 @@
                 -71.7430584,
                 46.6201733
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre sportif Bellechasse-Dorchester",
@@ -4161,7 +4499,8 @@
                 -70.96321292102655,
                 46.62961986689219
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Sportif Claude-Bédard",
@@ -4173,7 +4512,8 @@
                 -70.35162110929716,
                 46.41412705
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre sportif Goerges-Henri-Vermette",
@@ -4185,7 +4525,8 @@
                 -71.452607,
                 46.5751318
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre sportif La Guadeloupe",
@@ -4197,7 +4538,8 @@
                 -70.9433788,
                 45.9591819
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre Sportif Lacroix Dutil",
@@ -4209,7 +4551,8 @@
                 -70.68096757291667,
                 46.12361455
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre sportif Marcel-Bédard",
@@ -4221,7 +4564,8 @@
                 -71.1897559,
                 46.8575193
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Centre sportif Marc-Simonneau",
@@ -4233,7 +4577,8 @@
                 -71.21266736329248,
                 46.86126190572654
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Centre sportif Odilon-Grenier",
@@ -4245,7 +4590,8 @@
                 -71.3701369,
                 45.9722402
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Centre sportif Saint-Pascal",
@@ -4257,7 +4603,8 @@
                 -69.8037762,
                 47.5320402
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Colisée de Loretteville",
@@ -4269,7 +4616,8 @@
                 -71.3610425,
                 46.8559912
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Colisée Pepsi",
@@ -4281,7 +4629,8 @@
                 -71.2456683,
                 46.8265395
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Complexe 2 glaces Honco de Lévis",
@@ -4293,7 +4642,8 @@
                 -71.2032187,
                 46.7259417
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Complexe sportif & culturel de Ste-Claire",
@@ -4305,13 +4655,14 @@
                 -70.8590447909091,
                 46.60641154545455
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Complexe sportif de Wendake",
         "address": "100 rue Grand Chef Thonnakona",
         "city": "Wendake",
-        "region":3,
+        "region": 3,
         "coordinates": {
             "type": "Point",
             "coordinates": [
@@ -4330,7 +4681,8 @@
                 -71.2703969,
                 46.8216273
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Complexe sportif Mariette et Joseph Faucher",
@@ -4342,7 +4694,8 @@
                 -71.0794642,
                 46.0456884
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Complexe sportif Matra",
@@ -4354,7 +4707,8 @@
                 -70.652231,
                 45.9577216
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Complexe sportif Multidisciplinaire de L'Ancienne-Lorette",
@@ -4366,7 +4720,8 @@
                 -71.3614002,
                 46.808901
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Complexe sportif multidisciplinaire de Saint-Augustin-e-Desmaures",
@@ -4378,7 +4733,8 @@
                 -71.45987959774835,
                 46.74640069735979
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Complexe sportif Trane",
@@ -4390,7 +4746,8 @@
                 -71.11537109478786,
                 46.90238878942771
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "La Cité/Limoilou",
@@ -4402,7 +4759,8 @@
                 -71.2231221,
                 46.8188764
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Aréna de Lambton",
@@ -4414,7 +4772,8 @@
                 -71.0898211,
                 45.8369435
             ]
-        }
+        },
+        "region": 5
     },
     {
         "name": "Municipalité de Frampton",
@@ -4426,7 +4785,8 @@
                 -70.8075296,
                 46.4633104
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "OTJ Saint-Odilon",
@@ -4438,7 +4798,8 @@
                 -70.6738336,
                 46.3500193
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Sréan Gilles-Tremblay",
@@ -4450,7 +4811,8 @@
                 -71.3578485,
                 46.7835564
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Stade des Bâtisseurs",
@@ -4462,13 +4824,15 @@
                 -70.89987746597636,
                 46.148032650000005
             ]
-        }
+        },
+        "region": 12
     },
     {
         "name": "Aréna 3e escadre de Bagotville",
         "address": "C.P. 410",
         "city": "Saguenay",
-        "coordinates": null
+        "coordinates": null,
+        "region": 2
     },
     {
         "name": "Aréna de Métabetchouan-Lac-à-la-Croix",
@@ -4480,7 +4844,8 @@
                 -71.8719486,
                 48.4285119
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre Amishkuisht",
@@ -4505,7 +4870,8 @@
                 -71.65781997727538,
                 48.537912669649494
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre sportif Mistook",
@@ -4517,7 +4883,8 @@
                 -71.69546850901355,
                 48.638212749999994
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre récréatif de Saint-Félicien",
@@ -4529,7 +4896,8 @@
                 -72.46043411429895,
                 48.64838085
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre sportif Benoît-Levesque",
@@ -4541,7 +4909,8 @@
                 -72.226982,
                 48.50369
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre sportif et communautaire de Chapais",
@@ -4553,7 +4922,8 @@
                 -74.84880681840507,
                 49.778968250000005
             ]
-        }
+        },
+        "region": 10
     },
     {
         "name": "Centre sportif Gaston-Morin",
@@ -4565,7 +4935,8 @@
                 -72.0848385,
                 48.8658666
             ]
-        }
+        },
+        "region": 1
     },
     {
         "name": "Centre sportif Normandin",
@@ -4577,7 +4948,8 @@
                 -72.5250278,
                 48.835648
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre sportif Réjean-Temblay",
@@ -4589,7 +4961,8 @@
                 -71.112528,
                 48.623831
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Centre Sportif Saint-Nazaire Proco",
@@ -4601,7 +4974,8 @@
                 -71.54733090013983,
                 48.58729286307574
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Club sportif de Chambord",
@@ -4613,7 +4987,8 @@
                 -72.06317877834734,
                 48.428476352100155
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Aréna secteur Mistassini",
@@ -4625,7 +5000,8 @@
                 -72.2029626,
                 48.888836
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Complexe sportif Desjardins",
@@ -4637,7 +5013,8 @@
                 -72.2238051,
                 48.8741849
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Gestion aréna Chibougamau",
@@ -4649,7 +5026,8 @@
                 -74.3704059,
                 49.9163382
             ]
-        }
+        },
+        "region": 10
     },
     {
         "name": "Municipalité de la Paroisse de La Doré - Complexe sportif",
@@ -4661,7 +5039,8 @@
                 -72.6493518,
                 48.7138902
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Municipalité de Saint-Ambroise",
@@ -4673,7 +5052,8 @@
                 -71.32122103846154,
                 48.553504807692306
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Pavillon de Service de l'UQAC",
@@ -4685,7 +5065,8 @@
                 -71.05257810996905,
                 48.41997635
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Saguenay - Centre des sports Jean-Claude-Temblay",
@@ -4697,7 +5078,8 @@
                 -70.87881207660271,
                 48.3399105
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Saguenay - Les arénas de Chicoutimi",
@@ -4709,7 +5091,8 @@
                 -71.06220216060811,
                 48.42828275
             ]
-        }
+        },
+        "region": 2
     },
     {
         "name": "Colisée Vidéotron",
@@ -4722,7 +5105,8 @@
                 -72.5913238,
                 46.3218116
             ]
-        }
+        },
+        "region": 4
     },
     {
         "name": "Centre de glaces Intact Assurance",
@@ -4735,7 +5119,8 @@
                 -71.3013611,
                 46.7705876
             ]
-        }
+        },
+        "region": 3
     },
     {
         "name": "Complexe sportif Desjardins",
@@ -4748,6 +5133,7 @@
                 48.4493853
             ]
         },
-        "type":"olympique"
+        "type": "olympique",
+        "region": 1
     }
 ]

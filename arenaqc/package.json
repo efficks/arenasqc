@@ -1,0 +1,46 @@
+{
+  "name": "arenaqc",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "env vue-tsc --noEmit && env NODE_OPTIONS=--max_old_space_size=4096 vite build --base=/arenasqc",
+    "preview": "vite preview",
+    "lint": "eslint . --fix --ignore-path .gitignore",
+    "deploy": "node scripts/gh-pages-deploy.ts"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "@types/geojson": "^7946.0.10",
+    "@vue-leaflet/vue-leaflet": "^0.10.1",
+    "@vueuse/core": "^10.3.0",
+    "axios": "^1.4.0",
+    "chroma-js": "^2.4.2",
+    "leaflet": "^1.9.4",
+    "pinia": "^2.1.6",
+    "roboto-fontface": "^0.10.0",
+    "uuid": "^9.0.0",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
+    "vue3-plotly": "^0.0.7",
+    "vuetify": "^3.3.11",
+    "webfontloader": "^1.6.28"
+  },
+  "devDependencies": {
+    "@babel/types": "^7.22.5",
+    "@types/chroma-js": "^2.4.0",
+    "@types/leaflet": "^1.9.3",
+    "@types/node": "^18.17.2",
+    "@types/plotly.js": "^2.12.26",
+    "@types/webfontloader": "^1.6.35",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vue/eslint-config-typescript": "^11.0.3",
+    "depcheck": "^1.4.3",
+    "eslint": "^8.46.0",
+    "eslint-plugin-vue": "^9.16.1",
+    "execa": "npm:@esm2cjs/execa@6.1.1-cjs.1",
+    "typescript": "^5.1.6",
+    "vite": "^4.4.8",
+    "vite-plugin-vuetify": "^1.0.2",
+    "vue-tsc": "^1.8.8"
+  }
+}
