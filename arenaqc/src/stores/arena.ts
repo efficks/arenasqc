@@ -33,7 +33,7 @@ export const useArenaStore = defineStore('arena', () => {
 
   async function fetchMainArenas() {
     try {
-      const data = await axios.get('/data/arenas.json')
+      const data = await axios.get('/arenasqc/data/arenas.json')
       data.data.forEach((arena_data: DataArena) => {
         if (arena_data.coordinates !== null && excludedCity.indexOf(arena_data.city) === -1) {
           arenas.value.push({
@@ -93,24 +93,4 @@ export const useArenaStore = defineStore('arena', () => {
 
 
   return { arenas, arenaPerRegion, fetchArenas }
-  /*state: () => ({
-    arenas: [],
-  }),
-  getters: {
-    getArenas(state){
-        return state.arenas;
-      }
-  },
-  actions: {
-    async fetchArenas() {
-      try {
-        const data = await axios.get('https://jsonplaceholder.typicode.com/users')
-          this.arenas = data.data
-        }
-        catch (error) {
-          alert(error)
-          console.log(error)
-      }
-    }
-  },*/
 })

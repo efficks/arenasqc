@@ -18,7 +18,7 @@ export const useRegionStore = defineStore('region', () => {
 
     async function fetchRegionsData() {
         try {
-            const data = await axios.get('/data/regions.json')
+            const data = await axios.get('/arenasqc/data/regions.json')
             regions.value = data.data;
             regions.value.forEach(region => {
                 regionDict.value.set(region.code, region);
@@ -32,7 +32,7 @@ export const useRegionStore = defineStore('region', () => {
 
     async function fetchRegionsShape() {
         try {
-            const data = await axios.get('/data/regionshape.json',{maxContentLength: 100000000,
+            const data = await axios.get('/arenasqc/data/regionshape.json',{maxContentLength: 100000000,
                 maxBodyLength: 1000000000})
             regionShape.value = data.data;
         }
