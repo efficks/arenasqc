@@ -195,32 +195,6 @@
         "region": 8
     },
     {
-        "name": "Membre honoraire",
-        "address": "24 rue Des Iles",
-        "city": "Rivière-Héva",
-        "coordinates": {
-            "type": "Point",
-            "coordinates": [
-                -78.14635344716227,
-                48.23960554821588
-            ]
-        },
-        "region": 8
-    },
-    {
-        "name": "Membre honoraire",
-        "address": "75 20e Rue",
-        "city": "Rouyn-Noranda",
-        "coordinates": {
-            "type": "Point",
-            "coordinates": [
-                -79.04011840397958,
-                48.244215905935576
-            ]
-        },
-        "region": 8
-    },
-    {
         "name": "Polydium",
         "address": "85 rue Côté",
         "city": "Notre-Dame-du-Nord",
@@ -545,19 +519,6 @@
             ]
         },
         "region": 16
-    },
-    {
-        "name": "Membre honoraire",
-        "address": "800 rue Gouin",
-        "city": "Richmond",
-        "coordinates": {
-            "type": "Point",
-            "coordinates": [
-                -72.1471605,
-                45.6667425
-            ]
-        },
-        "region": 5
     },
     {
         "name": "Service des Loisirs de Saint-Hyacinthe",
@@ -1024,71 +985,6 @@
             "coordinates": [
                 -69.0414863,
                 47.434991
-            ]
-        },
-        "region": 1
-    },
-    {
-        "name": "Membre honoraire",
-        "address": "121 5e Rue",
-        "city": "New Richmond",
-        "coordinates": {
-            "type": "Point",
-            "coordinates": [
-                -65.859713,
-                48.165988
-            ]
-        },
-        "region": 11
-    },
-    {
-        "name": "Membre honoraire",
-        "address": "101 c  rue Collin",
-        "city": "Saint-Cyprien",
-        "coordinates": {
-            "type": "Point",
-            "coordinates": [
-                -69.0208573,
-                47.8956008
-            ]
-        },
-        "region": 1
-    },
-    {
-        "name": "Membre honoraire",
-        "address": "630 rue Vézina",
-        "city": "Trois-Pistoles",
-        "coordinates": {
-            "type": "Point",
-            "coordinates": [
-                -69.1680429,
-                48.1188011
-            ]
-        },
-        "region": 1
-    },
-    {
-        "name": "Membre honoraire",
-        "address": "204 rue Dionne",
-        "city": "Matane",
-        "coordinates": {
-            "type": "Point",
-            "coordinates": [
-                -67.5182362368421,
-                48.84694113157895
-            ]
-        },
-        "region": 1
-    },
-    {
-        "name": "Membre honoraire",
-        "address": "372 du Père-Leneuf",
-        "city": "Rimouski",
-        "coordinates": {
-            "type": "Point",
-            "coordinates": [
-                -68.5231748,
-                48.438618
             ]
         },
         "region": 1
@@ -3693,19 +3589,6 @@
         "city": "Hawkesbury",
         "coordinates": null,
         "province": "ON"
-    },
-    {
-        "name": "Membre honoraire",
-        "address": "55 rue Chouinard",
-        "city": "Gatineau",
-        "coordinates": {
-            "type": "Point",
-            "coordinates": [
-                -75.74517000617284,
-                45.460964000000004
-            ]
-        },
-        "region": 7
     },
     {
         "name": "Municipalité de Papineauville",
