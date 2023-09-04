@@ -2,6 +2,7 @@
 
 <template>
   <v-main class="d-flex align-center justify-center" style="min-height: 300px;">
+    
     <v-container fluid>
       <v-row justify="center" >
         <v-col  lg="8">
