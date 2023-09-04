@@ -1,7 +1,7 @@
 <template>
   <v-dialog v-model="dialog" width="auto">
     <template v-slot:activator="{ props }">
-      <v-btn icon small color="primary" v-bind="props" style="position: fixed; margin-top: 75px;">
+      <v-btn icon small class="ml-4" color="primary" v-bind="props" style="z-index: 10000;position: fixed; margin-top: 75px;">
         <v-icon>mdi-information-variant</v-icon>
       </v-btn>
     </template>

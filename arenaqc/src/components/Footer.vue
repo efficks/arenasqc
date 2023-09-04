@@ -12,9 +12,9 @@
 
       <v-card-text class="py-12 white--text text-center">
         <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title"
-            rel="cc:attributionURL" href="https://efficks.github.io/arenasqc/">Liste des arénas du Québec</a> by <a
+            rel="cc:attributionURL" href="https://efficks.github.io/arenasqc/">Liste des arénas du Québec</a> par <a
             rel="cc:attributionURL dct:creator" property="cc:attributionName"
-            href="https://github.com/efficks">François-Xavier Choinière</a> is marked with <a
+            href="https://github.com/efficks">François-Xavier Choinière</a> est marqué <a
             href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank"
             rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img
               style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
